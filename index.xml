@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Wowchemy Research Group</title>
+    <title>Pritykin Lab</title>
     <link>https://pritykinlab.github.io/</link>
       <atom:link href="https://pritykinlab.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Wowchemy Research Group</description>
+    <description>Pritykin Lab</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
       <url>https://pritykinlab.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
-      <title>Wowchemy Research Group</title>
+      <title>Pritykin Lab</title>
       <link>https://pritykinlab.github.io/</link>
     </image>
     
@@ -28,62 +28,268 @@
     </item>
     
     <item>
-      <title>Jian Yang and Monica Hall Win the Best Paper Award at Wowchemy 2020</title>
-      <link>https://pritykinlab.github.io/post/20-12-02-icml-best-paper/</link>
-      <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://pritykinlab.github.io/post/20-12-02-icml-best-paper/</guid>
-      <description>&lt;p&gt;Congratulations to Jian Yang and Monica Hall for winning the Best Paper Award at the 2020 Conference on Wowchemy for their paper “Learning Wowchemy”.&lt;/p&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.&lt;/p&gt;
-&lt;p&gt;Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.&lt;/p&gt;
-&lt;p&gt;Mauris dapibus sem vel magna convallis laoreet. Donec in venenatis urna, vitae sodales odio. Praesent tortor diam, varius non luctus nec, bibendum vel est. Quisque id sem enim. Maecenas at est leo. Vestibulum tristique pellentesque ex, blandit placerat nunc eleifend sit amet. Fusce eget lectus bibendum, accumsan mi quis, luctus sem. Etiam vitae nulla scelerisque, eleifend odio in, euismod quam. Etiam porta ullamcorper massa, vitae gravida turpis euismod quis. Mauris sodales sem ac ultrices viverra. In placerat ultrices sapien. Suspendisse eu arcu hendrerit, luctus tortor cursus, maximus dolor. Proin et velit et quam gravida dapibus. Donec blandit justo ut consequat tristique.&lt;/p&gt;</description>
+      <title>LSI Scholar Dr. Ian Traniello joins the lab</title>
+      <link>https://pritykinlab.github.io/post/2021-10-15-ian-lsi-scholar/</link>
+      <pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/post/2021-10-15-ian-lsi-scholar/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Richard Hendricks Wins First Place in the Wowchemy Prize</title>
-      <link>https://pritykinlab.github.io/post/20-12-01-wowchemy-prize/</link>
-      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://pritykinlab.github.io/post/20-12-01-wowchemy-prize/</guid>
-      <description>&lt;p&gt;Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.&lt;/p&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.&lt;/p&gt;
-&lt;p&gt;Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.&lt;/p&gt;
-&lt;p&gt;Mauris dapibus sem vel magna convallis laoreet. Donec in venenatis urna, vitae sodales odio. Praesent tortor diam, varius non luctus nec, bibendum vel est. Quisque id sem enim. Maecenas at est leo. Vestibulum tristique pellentesque ex, blandit placerat nunc eleifend sit amet. Fusce eget lectus bibendum, accumsan mi quis, luctus sem. Etiam vitae nulla scelerisque, eleifend odio in, euismod quam. Etiam porta ullamcorper massa, vitae gravida turpis euismod quis. Mauris sodales sem ac ultrices viverra. In placerat ultrices sapien. Suspendisse eu arcu hendrerit, luctus tortor cursus, maximus dolor. Proin et velit et quam gravida dapibus. Donec blandit justo ut consequat tristique.&lt;/p&gt;</description>
+      <title></title>
+      <link>https://pritykinlab.github.io/research/01-tcells/</link>
+      <pubDate>Tue, 05 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/research/01-tcells/</guid>
+      <description>&lt;p&gt;CD8 T cells form the central component of adaptive immune system and are essential in defense against viral and bacterial infections and in tumor immunity. Better molecular characterization of CD8 T cells in different contexts is fundamentally important and can lead to improved clinical results in cancer immunotherapies, infectious diseases, autoimmunity. We performed an extensive genomic, single-cell, and transcription factor &lt;a href=&#34;publication/2020-cd8t/index.html&#34;&gt;analysis&lt;/a&gt; of CD8 T cell functional and dysfunctional states. We now continue studying regulatory mechanisms and cell-cell interactions governing CD8 T cell activation and functional commitment across immune challenges using single-cell multi-omics.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>An example preprint / working paper</title>
-      <link>https://pritykinlab.github.io/publication/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://pritykinlab.github.io/publication/preprint/</guid>
-      <description>&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title></title>
+      <link>https://pritykinlab.github.io/research/02-treg/</link>
+      <pubDate>Mon, 04 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/research/02-treg/</guid>
+      <description>&lt;p&gt;Regulatory T (Treg) cells are critical for tolerance to self-antigens and preventing autoimmunity. Their differentiation and function are controlled by transcription factor Foxp3, but mechanistic understanding of Foxp3 role remains elusive. Using functional genomic analysis, &lt;a href=&#34;publication/2019-nat-immunol-foxp-1-foxp-3-treg/index.html&#34;&gt;we explored&lt;/a&gt; Foxp3 function and its interaction with a highly expressed closely related factor Foxp1. We are now studying the role of Foxp3 and other factors in organizing chromatin architecture of Treg cells.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>An example journal article</title>
-      <link>https://pritykinlab.github.io/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://pritykinlab.github.io/publication/journal-article/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title></title>
+      <link>https://pritykinlab.github.io/research/04-guidescan/</link>
+      <pubDate>Sat, 02 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/research/04-guidescan/</guid>
+      <description>&lt;p&gt;Programmable genome editing using CRISPR has tremendously advanced life sciences. To facilitate the use of this technology, especially in the noncoding genome and for batch screens,
+we developed &lt;a href=&#34;publication/2017-nat-biotech-guide-scan/index.html&#34;&gt;GuideScan&lt;/a&gt;, a fully customizable CRISPR guide RNA design tool. We now continue working on tools for design and analysis of CRISPR-based genome perturbations and their combinations with single-cell functional genomic assays.&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>An example conference paper</title>
-      <link>https://pritykinlab.github.io/publication/conference-paper/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://pritykinlab.github.io/publication/conference-paper/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title></title>
+      <link>https://pritykinlab.github.io/research/05-heap/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/research/05-heap/</guid>
+      <description>&lt;p&gt;Cross-linking immunoprecipitation followed by sequencing (CLIP-seq) is a family of methods for profiling sites of protein binding to RNA. In particular, CLIP has been used to identify targets of microRNAs, small non-coding RNA molecules that, when bound to a protein Ago2, regulate gene expression post-transcriptionally. We developed a new algorithm &lt;a href=&#34;https://bitbucket.org/leslielab/clipanalyze&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CLIPanalyze&lt;/a&gt; for analysis of such data and used it for &lt;a href=&#34;publication/2020-mol-cell-heap/index.html&#34;&gt;comprehensive analysis&lt;/a&gt; of microRNA targets &lt;em&gt;in vivo&lt;/em&gt; in mouse embryonic stem cells, developing embryos, adult tissues and multiple cancer models.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Pritykin lab receives funding from Princeton Biomolecular Condensate Program with the Levine lab</title>
+      <link>https://pritykinlab.github.io/post/2021-09-01-biocondensate/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/post/2021-09-01-biocondensate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Three QCB students, Amanda Sun, Sarah Walker, and Gabe Dolsten, join the lab</title>
+      <link>https://pritykinlab.github.io/post/2021-08-01-three-students/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/post/2021-08-01-three-students/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pritykin Lab receives New Investigator Award from Rutgers Cancer Institute of New Jersey</title>
+      <link>https://pritykinlab.github.io/post/2021-07-01-rutgers-new-investigator/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/post/2021-07-01-rutgers-new-investigator/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A unified atlas of CD8 T cell dysfunctional states in cancer and infection</title>
+      <link>https://pritykinlab.github.io/publication/2021-cd8t/</link>
+      <pubDate>Thu, 22 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/publication/2021-cd8t/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Our paper &#34;A unified atlas of CD8 T cell dysfunctional states in cancer and infection&#34; appears online at Molecular Cell</title>
+      <link>https://pritykinlab.github.io/post/2021-04-22-mol-cell-paper/</link>
+      <pubDate>Thu, 22 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/post/2021-04-22-mol-cell-paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pritykin Lab is now open!</title>
+      <link>https://pritykinlab.github.io/post/2021-01-16-lab-opens/</link>
+      <pubDate>Sat, 16 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/post/2021-01-16-lab-opens/</guid>
+      <description>&lt;p&gt;The Pritykin lab at the Lewis-Sigler Institute for Integrative Genomics opens its doors!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>High-Resolution in vivo identification of miRNA targets by Halo-enhanced Ago2 pull-down</title>
+      <link>https://pritykinlab.github.io/publication/2020-mol-cell-heap/</link>
+      <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/publication/2020-mol-cell-heap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transcriptional basis of mouse and human dendritic cell heterogeneity</title>
+      <link>https://pritykinlab.github.io/publication/2019-cell-dcs/</link>
+      <pubDate>Thu, 31 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/publication/2019-cell-dcs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transcription factor Foxp1 regulates Foxp3 chromatin binding and coordinates regulatory T cell function</title>
+      <link>https://pritykinlab.github.io/publication/2019-nat-immunol-foxp-1-foxp-3-treg/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/publication/2019-nat-immunol-foxp-1-foxp-3-treg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Epigenetic control of innate and adaptive immune memory</title>
+      <link>https://pritykinlab.github.io/publication/2018-nat-immunol-epigenetic/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/publication/2018-nat-immunol-epigenetic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-redundant ISGF3 components promote NK cell survival in an auto-regulatory manner during viral infection</title>
+      <link>https://pritykinlab.github.io/publication/2018-cell-reports-nk/</link>
+      <pubDate>Tue, 21 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/publication/2018-cell-reports-nk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ILC1 Confer Early Host Protection at Initial Sites of Viral Infection</title>
+      <link>https://pritykinlab.github.io/publication/2017-cell-ilc-weizman/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/publication/2017-cell-ilc-weizman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrative analysis unveils new functions for the Drosophila Cutoff protein in non-coding RNA biogenesis and gene regulation</title>
+      <link>https://pritykinlab.github.io/publication/2017-rna-cutoff/</link>
+      <pubDate>Tue, 18 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/publication/2017-rna-cutoff/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GuideScan software for improved single and paired CRISPR guide RNA design</title>
+      <link>https://pritykinlab.github.io/publication/2017-nat-biotech-guide-scan/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/publication/2017-nat-biotech-guide-scan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cancer Immunosurveillance by Tissue-Resident Innate Lymphoid Cells and Innate-like T Cells</title>
+      <link>https://pritykinlab.github.io/publication/2016-cell-ilc-dadi/</link>
+      <pubDate>Thu, 28 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/publication/2016-cell-ilc-dadi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genome-Wide Detection and Analysis of Multifunctional Genes</title>
+      <link>https://pritykinlab.github.io/publication/2015-ploscb-multifunctionality/</link>
+      <pubDate>Mon, 05 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/publication/2015-ploscb-multifunctionality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Classifications of protein roles in the functional organization of the cell</title>
+      <link>https://pritykinlab.github.io/publication/2014-dissertation/</link>
+      <pubDate>Sat, 20 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/publication/2014-dissertation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simple Topological Features Reflect Dynamics and Modularity in Protein Interaction Networks</title>
+      <link>https://pritykinlab.github.io/publication/2013-ploscb-hubs/</link>
+      <pubDate>Thu, 10 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/publication/2013-ploscb-hubs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Empirical validation of the Buckley--Osthus model for the web host graph: degree and edge distributions</title>
+      <link>https://pritykinlab.github.io/publication/2012-cikm-hostgraph/</link>
+      <pubDate>Mon, 29 Oct 2012 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/publication/2012-cikm-hostgraph/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Almost periodicity, finite automata mappings, and related effectiveness issues</title>
+      <link>https://pritykinlab.github.io/publication/2010-russ-math-almost-periodicity/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/publication/2010-russ-math-almost-periodicity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On uniformly recurrent morphic sequences</title>
+      <link>https://pritykinlab.github.io/publication/2009-ijfcs-morphic/</link>
+      <pubDate>Thu, 01 Oct 2009 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/publication/2009-ijfcs-morphic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Алгоритмические свойства последовательностей, близких к периодическим</title>
+      <link>https://pritykinlab.github.io/publication/2009-dissertation/</link>
+      <pubDate>Sun, 20 Sep 2009 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/publication/2009-dissertation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>О логических теориях и конечных автоматах на бесконечных последовательностях</title>
+      <link>https://pritykinlab.github.io/publication/2009-logical-theories/</link>
+      <pubDate>Sun, 20 Sep 2009 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/publication/2009-logical-theories/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aperiodicity Measure for Infinite Sequences</title>
+      <link>https://pritykinlab.github.io/publication/2009-csr-aperiodicity-measure/</link>
+      <pubDate>Tue, 18 Aug 2009 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/publication/2009-csr-aperiodicity-measure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sequences close to periodic</title>
+      <link>https://pritykinlab.github.io/publication/2009-surveys-almost-periodicity/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/publication/2009-surveys-almost-periodicity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On almost periodicity criteria for morphic sequences in some particular cases</title>
+      <link>https://pritykinlab.github.io/publication/2007-dlt-morphic/</link>
+      <pubDate>Tue, 03 Jul 2007 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/publication/2007-dlt-morphic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Information in Infinite Words</title>
+      <link>https://pritykinlab.github.io/publication/2007-words-info/</link>
+      <pubDate>Sun, 01 Jul 2007 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/publication/2007-words-info/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finite-automaton transformations of strictly almost-periodic sequences</title>
+      <link>https://pritykinlab.github.io/publication/2006-math-notes-finite-automata/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/publication/2006-math-notes-finite-automata/</guid>
+      <description></description>
     </item>
     
     <item>

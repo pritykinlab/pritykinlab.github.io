@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lee Morgan | Pritykin Lab</title>
+    <link>https://pritykinlab.github.io/author/lee-morgan/</link>
+      <atom:link href="https://pritykinlab.github.io/author/lee-morgan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lee Morgan</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://pritykinlab.github.io/author/lee-morgan/avatar_hu0fe05a30feb15f9efc04d680b3f7cfc3_38862_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Lee Morgan</title>
+      <link>https://pritykinlab.github.io/author/lee-morgan/</link>
+    </image>
+    
+  </channel>
+</rss>

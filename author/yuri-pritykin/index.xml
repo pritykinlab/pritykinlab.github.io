@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yuri Pritykin | Pritykin Lab</title>
+    <link>https://pritykinlab.github.io/author/yuri-pritykin/</link>
+      <atom:link href="https://pritykinlab.github.io/author/yuri-pritykin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yuri Pritykin</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 22 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pritykinlab.github.io/author/yuri-pritykin/avatar_huec0bfe217818550ceabba5e59bf9fbff_901831_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Yuri Pritykin</title>
+      <link>https://pritykinlab.github.io/author/yuri-pritykin/</link>
+    </image>
+    
+    <item>
+      <title>A unified atlas of CD8 T cell dysfunctional states in cancer and infection</title>
+      <link>https://pritykinlab.github.io/publication/2021-cd8t/</link>
+      <pubDate>Thu, 22 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/publication/2021-cd8t/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-Resolution in vivo identification of miRNA targets by Halo-enhanced Ago2 pull-down</title>
+      <link>https://pritykinlab.github.io/publication/2020-mol-cell-heap/</link>
+      <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/publication/2020-mol-cell-heap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transcriptional basis of mouse and human dendritic cell heterogeneity</title>
+      <link>https://pritykinlab.github.io/publication/2019-cell-dcs/</link>
+      <pubDate>Thu, 31 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/publication/2019-cell-dcs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transcription factor Foxp1 regulates Foxp3 chromatin binding and coordinates regulatory T cell function</title>
+      <link>https://pritykinlab.github.io/publication/2019-nat-immunol-foxp-1-foxp-3-treg/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/publication/2019-nat-immunol-foxp-1-foxp-3-treg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Epigenetic control of innate and adaptive immune memory</title>
+      <link>https://pritykinlab.github.io/publication/2018-nat-immunol-epigenetic/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/publication/2018-nat-immunol-epigenetic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-redundant ISGF3 components promote NK cell survival in an auto-regulatory manner during viral infection</title>
+      <link>https://pritykinlab.github.io/publication/2018-cell-reports-nk/</link>
+      <pubDate>Tue, 21 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/publication/2018-cell-reports-nk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ILC1 Confer Early Host Protection at Initial Sites of Viral Infection</title>
+      <link>https://pritykinlab.github.io/publication/2017-cell-ilc-weizman/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/publication/2017-cell-ilc-weizman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrative analysis unveils new functions for the Drosophila Cutoff protein in non-coding RNA biogenesis and gene regulation</title>
+      <link>https://pritykinlab.github.io/publication/2017-rna-cutoff/</link>
+      <pubDate>Tue, 18 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/publication/2017-rna-cutoff/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GuideScan software for improved single and paired CRISPR guide RNA design</title>
+      <link>https://pritykinlab.github.io/publication/2017-nat-biotech-guide-scan/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/publication/2017-nat-biotech-guide-scan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cancer Immunosurveillance by Tissue-Resident Innate Lymphoid Cells and Innate-like T Cells</title>
+      <link>https://pritykinlab.github.io/publication/2016-cell-ilc-dadi/</link>
+      <pubDate>Thu, 28 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/publication/2016-cell-ilc-dadi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genome-Wide Detection and Analysis of Multifunctional Genes</title>
+      <link>https://pritykinlab.github.io/publication/2015-ploscb-multifunctionality/</link>
+      <pubDate>Mon, 05 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/publication/2015-ploscb-multifunctionality/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Classifications of protein roles in the functional organization of the cell</title>
+      <link>https://pritykinlab.github.io/publication/2014-dissertation/</link>
+      <pubDate>Sat, 20 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/publication/2014-dissertation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simple Topological Features Reflect Dynamics and Modularity in Protein Interaction Networks</title>
+      <link>https://pritykinlab.github.io/publication/2013-ploscb-hubs/</link>
+      <pubDate>Thu, 10 Oct 2013 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/publication/2013-ploscb-hubs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Empirical validation of the Buckley--Osthus model for the web host graph: degree and edge distributions</title>
+      <link>https://pritykinlab.github.io/publication/2012-cikm-hostgraph/</link>
+      <pubDate>Mon, 29 Oct 2012 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/publication/2012-cikm-hostgraph/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Almost periodicity, finite automata mappings, and related effectiveness issues</title>
+      <link>https://pritykinlab.github.io/publication/2010-russ-math-almost-periodicity/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/publication/2010-russ-math-almost-periodicity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On uniformly recurrent morphic sequences</title>
+      <link>https://pritykinlab.github.io/publication/2009-ijfcs-morphic/</link>
+      <pubDate>Thu, 01 Oct 2009 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/publication/2009-ijfcs-morphic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aperiodicity Measure for Infinite Sequences</title>
+      <link>https://pritykinlab.github.io/publication/2009-csr-aperiodicity-measure/</link>
+      <pubDate>Tue, 18 Aug 2009 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/publication/2009-csr-aperiodicity-measure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sequences close to periodic</title>
+      <link>https://pritykinlab.github.io/publication/2009-surveys-almost-periodicity/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/publication/2009-surveys-almost-periodicity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On almost periodicity criteria for morphic sequences in some particular cases</title>
+      <link>https://pritykinlab.github.io/publication/2007-dlt-morphic/</link>
+      <pubDate>Tue, 03 Jul 2007 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/publication/2007-dlt-morphic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Information in Infinite Words</title>
+      <link>https://pritykinlab.github.io/publication/2007-words-info/</link>
+      <pubDate>Sun, 01 Jul 2007 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/publication/2007-words-info/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Finite-automaton transformations of strictly almost-periodic sequences</title>
+      <link>https://pritykinlab.github.io/publication/2006-math-notes-finite-automata/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/publication/2006-math-notes-finite-automata/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

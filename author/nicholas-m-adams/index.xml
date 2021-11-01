@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nicholas M Adams | Pritykin Lab</title>
+    <link>https://pritykinlab.github.io/author/nicholas-m-adams/</link>
+      <atom:link href="https://pritykinlab.github.io/author/nicholas-m-adams/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nicholas M Adams</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pritykinlab.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Nicholas M Adams</title>
+      <link>https://pritykinlab.github.io/author/nicholas-m-adams/</link>
+    </image>
+    
+    <item>
+      <title>Epigenetic control of innate and adaptive immune memory</title>
+      <link>https://pritykinlab.github.io/publication/2018-nat-immunol-epigenetic/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/publication/2018-nat-immunol-epigenetic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Non-redundant ISGF3 components promote NK cell survival in an auto-regulatory manner during viral infection</title>
+      <link>https://pritykinlab.github.io/publication/2018-cell-reports-nk/</link>
+      <pubDate>Tue, 21 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/publication/2018-cell-reports-nk/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

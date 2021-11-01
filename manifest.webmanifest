@@ -1,9 +1,9 @@
 {
-  "name": "Wowchemy Research Group",
-  "short_name": "Wowchemy Research Group",
+  "name": "Pritykin Lab",
+  "short_name": "Pritykin Lab",
   "lang": "en-us",
-  "theme_color": "#1565c0",
-  "background_color": "#1565c0",
+  "theme_color": "#3f51b5",
+  "background_color": "#3f51b5",
   "icons": [{
     "src": "/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_192x192_fill_lanczos_center_3.png",
     "sizes": "192x192",

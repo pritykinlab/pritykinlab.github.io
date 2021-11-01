@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yury Rubtsov | Pritykin Lab</title>
+    <link>https://pritykinlab.github.io/author/yury-rubtsov/</link>
+      <atom:link href="https://pritykinlab.github.io/author/yury-rubtsov/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yury Rubtsov</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pritykinlab.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Yury Rubtsov</title>
+      <link>https://pritykinlab.github.io/author/yury-rubtsov/</link>
+    </image>
+    
+    <item>
+      <title>Transcription factor Foxp1 regulates Foxp3 chromatin binding and coordinates regulatory T cell function</title>
+      <link>https://pritykinlab.github.io/publication/2019-nat-immunol-foxp-1-foxp-3-treg/</link>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/publication/2019-nat-immunol-foxp-1-foxp-3-treg/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

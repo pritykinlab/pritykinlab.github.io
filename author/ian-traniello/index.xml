@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ian Traniello | Pritykin Lab</title>
+    <link>https://pritykinlab.github.io/author/ian-traniello/</link>
+      <atom:link href="https://pritykinlab.github.io/author/ian-traniello/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ian Traniello</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://pritykinlab.github.io/author/ian-traniello/avatar_huf8f535258eee3de16ffce90ea9d8b3e7_302188_270x270_fill_lanczos_center_3.png</url>
+      <title>Ian Traniello</title>
+      <link>https://pritykinlab.github.io/author/ian-traniello/</link>
+    </image>
+    
+  </channel>
+</rss>

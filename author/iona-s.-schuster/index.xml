@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Iona S. Schuster | Pritykin Lab</title>
+    <link>https://pritykinlab.github.io/author/iona-s.-schuster/</link>
+      <atom:link href="https://pritykinlab.github.io/author/iona-s.-schuster/index.xml" rel="self" type="application/rss+xml" />
+    <description>Iona S. Schuster</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pritykinlab.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Iona S. Schuster</title>
+      <link>https://pritykinlab.github.io/author/iona-s.-schuster/</link>
+    </image>
+    
+    <item>
+      <title>ILC1 Confer Early Host Protection at Initial Sites of Viral Infection</title>
+      <link>https://pritykinlab.github.io/publication/2017-cell-ilc-weizman/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/publication/2017-cell-ilc-weizman/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

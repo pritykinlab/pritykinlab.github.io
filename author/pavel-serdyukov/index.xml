@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pavel Serdyukov | Pritykin Lab</title>
+    <link>https://pritykinlab.github.io/author/pavel-serdyukov/</link>
+      <atom:link href="https://pritykinlab.github.io/author/pavel-serdyukov/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pavel Serdyukov</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 29 Oct 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pritykinlab.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Pavel Serdyukov</title>
+      <link>https://pritykinlab.github.io/author/pavel-serdyukov/</link>
+    </image>
+    
+    <item>
+      <title>Empirical validation of the Buckley--Osthus model for the web host graph: degree and edge distributions</title>
+      <link>https://pritykinlab.github.io/publication/2012-cikm-hostgraph/</link>
+      <pubDate>Mon, 29 Oct 2012 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/publication/2012-cikm-hostgraph/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
