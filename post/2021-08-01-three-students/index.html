@@ -237,6 +237,45 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-YT39VMNKQ8"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-YT39VMNKQ8', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
   
@@ -277,7 +316,7 @@
   
   <meta property="og:site_name" content="Pritykin Lab" />
   <meta property="og:url" content="https://pritykinlab.github.io/post/2021-08-01-three-students/" />
-  <meta property="og:title" content="Three QCB students, Amanda Sun, Sarah Walker, and Gabe Dolsten, join the lab | Pritykin Lab" />
+  <meta property="og:title" content="Three QCB students, Amanda Sun, Sarah Walker and Gabe Dolsten, join the lab | Pritykin Lab" />
   <meta property="og:description" content="" /><meta property="og:image" content="https://pritykinlab.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png" />
     <meta property="twitter:image" content="https://pritykinlab.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
   
@@ -313,7 +352,7 @@
     "@type": "WebPage",
     "@id": "https://pritykinlab.github.io/post/2021-08-01-three-students/"
   },
-  "headline": "Three QCB students, Amanda Sun, Sarah Walker, and Gabe Dolsten, join the lab",
+  "headline": "Three QCB students, Amanda Sun, Sarah Walker and Gabe Dolsten, join the lab",
   
   "datePublished": "2021-08-01T00:00:00Z",
   "dateModified": "2021-08-01T00:00:00Z",
@@ -347,7 +386,7 @@
 
 
 
-  <title>Three QCB students, Amanda Sun, Sarah Walker, and Gabe Dolsten, join the lab | Pritykin Lab</title>
+  <title>Three QCB students, Amanda Sun, Sarah Walker and Gabe Dolsten, join the lab | Pritykin Lab</title>
 </head>
 
 
@@ -724,7 +763,7 @@
   
   
 <div class="article-container pt-3">
-  <h1>Three QCB students, Amanda Sun, Sarah Walker, and Gabe Dolsten, join the lab</h1>
+  <h1>Three QCB students, Amanda Sun, Sarah Walker and Gabe Dolsten, join the lab</h1>
 
   
 

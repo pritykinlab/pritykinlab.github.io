@@ -28,7 +28,15 @@
     </item>
     
     <item>
-      <title>LSI Scholar Dr. Ian Traniello joins the lab</title>
+      <title>New Pritykin Lab website is launched</title>
+      <link>https://pritykinlab.github.io/post/2021-11-01-new-lab-website/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/post/2021-11-01-new-lab-website/</guid>
+      <description>&lt;p&gt;New website of the Pritykin lab is launched at &lt;a href=&#34;https://pritykinlab.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;pritykinlab.github.io&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Dr. Ian Traniello joins the lab as LSI Scholar</title>
       <link>https://pritykinlab.github.io/post/2021-10-15-ian-lsi-scholar/</link>
       <pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate>
       <guid>https://pritykinlab.github.io/post/2021-10-15-ian-lsi-scholar/</guid>
@@ -40,7 +48,7 @@
       <link>https://pritykinlab.github.io/research/01-tcells/</link>
       <pubDate>Tue, 05 Oct 2021 00:00:00 +0000</pubDate>
       <guid>https://pritykinlab.github.io/research/01-tcells/</guid>
-      <description>&lt;p&gt;CD8 T cells form the central component of adaptive immune system and are essential in defense against viral and bacterial infections and in tumor immunity. Better molecular characterization of CD8 T cells in different contexts is fundamentally important and can lead to improved clinical results in cancer immunotherapies, infectious diseases, autoimmunity. We performed an extensive genomic, single-cell, and transcription factor &lt;a href=&#34;publication/2020-cd8t/index.html&#34;&gt;analysis&lt;/a&gt; of CD8 T cell functional and dysfunctional states. We now continue studying regulatory mechanisms and cell-cell interactions governing CD8 T cell activation and functional commitment across immune challenges using single-cell multi-omics.&lt;/p&gt;</description>
+      <description>&lt;p&gt;CD8 T cells form the central component of adaptive immune system and are essential in defense against viral and bacterial infections and in tumor immunity. Better molecular characterization of CD8 T cells in different contexts is fundamentally important and can lead to improved clinical results in cancer immunotherapies, infectious diseases, autoimmunity. We performed an extensive genomic, single-cell, and transcription factor &lt;a href=&#34;publication/2021-cd8t/index.html&#34;&gt;analysis&lt;/a&gt; of CD8 T cell functional and dysfunctional states. We now continue studying regulatory mechanisms and cell-cell interactions governing CD8 T cell activation and functional commitment across immune challenges using single-cell and spatial multi-omics.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -48,7 +56,7 @@
       <link>https://pritykinlab.github.io/research/02-treg/</link>
       <pubDate>Mon, 04 Oct 2021 00:00:00 +0000</pubDate>
       <guid>https://pritykinlab.github.io/research/02-treg/</guid>
-      <description>&lt;p&gt;Regulatory T (Treg) cells are critical for tolerance to self-antigens and preventing autoimmunity. Their differentiation and function are controlled by transcription factor Foxp3, but mechanistic understanding of Foxp3 role remains elusive. Using functional genomic analysis, &lt;a href=&#34;publication/2019-nat-immunol-foxp-1-foxp-3-treg/index.html&#34;&gt;we explored&lt;/a&gt; Foxp3 function and its interaction with a highly expressed closely related factor Foxp1. We are now studying the role of Foxp3 and other factors in organizing chromatin architecture of Treg cells.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Regulatory T (Treg) cells are critical for tolerance to self-antigens and preventing autoimmunity. Their differentiation and function are controlled by transcription factor Foxp3, but mechanistic understanding of Foxp3 role remains elusive. Using functional genomic analysis, &lt;a href=&#34;publication/2019-nat-immunol-foxp-1-foxp-3-treg/index.html&#34;&gt;we explored&lt;/a&gt; Foxp3 function and its interaction with a highly expressed closely related factor Foxp1. We are now studying the role of Foxp3 and other factors in chromatin organization of Treg cells.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -65,7 +73,15 @@ we developed &lt;a href=&#34;publication/2017-nat-biotech-guide-scan/index.html&
       <link>https://pritykinlab.github.io/research/05-heap/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
       <guid>https://pritykinlab.github.io/research/05-heap/</guid>
-      <description>&lt;p&gt;Cross-linking immunoprecipitation followed by sequencing (CLIP-seq) is a family of methods for profiling sites of protein binding to RNA. In particular, CLIP has been used to identify targets of microRNAs, small non-coding RNA molecules that, when bound to a protein Ago2, regulate gene expression post-transcriptionally. We developed a new algorithm &lt;a href=&#34;https://bitbucket.org/leslielab/clipanalyze&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CLIPanalyze&lt;/a&gt; for analysis of such data and used it for &lt;a href=&#34;publication/2020-mol-cell-heap/index.html&#34;&gt;comprehensive analysis&lt;/a&gt; of microRNA targets &lt;em&gt;in vivo&lt;/em&gt; in mouse embryonic stem cells, developing embryos, adult tissues and multiple cancer models.&lt;/p&gt;</description>
+      <description>&lt;p&gt;Cross-linking immunoprecipitation followed by sequencing (CLIP-seq) is a family of methods for profiling sites of protein binding to RNA. In particular, CLIP has been used to identify targets of microRNAs, small non-coding RNA molecules that, when bound to a protein Ago2, regulate gene expression post-transcriptionally. We developed a new algorithm &lt;a href=&#34;https://bitbucket.org/leslielab/clipanalyze&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CLIPanalyze&lt;/a&gt; for analysis of such data and used it for &lt;a href=&#34;publication/2020-mol-cell-heap/index.html&#34;&gt;comprehensive analysis&lt;/a&gt; of microRNA targets &lt;em&gt;in vivo&lt;/em&gt; in mouse embryonic stem cells, developing embryos, adult tissues and multiple cancer models. We now continue development and application of methods for studies of post-transcriptional regulation.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Ectopic activation of the miR-200c–EpCAM axis enhances antitumor T cell responses in models of adoptive cell therapy</title>
+      <link>https://pritykinlab.github.io/publication/2021-sci-transl-med-mir200/</link>
+      <pubDate>Wed, 15 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/publication/2021-sci-transl-med-mir200/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -77,7 +93,7 @@ we developed &lt;a href=&#34;publication/2017-nat-biotech-guide-scan/index.html&
     </item>
     
     <item>
-      <title>Three QCB students, Amanda Sun, Sarah Walker, and Gabe Dolsten, join the lab</title>
+      <title>Three QCB students, Amanda Sun, Sarah Walker and Gabe Dolsten, join the lab</title>
       <link>https://pritykinlab.github.io/post/2021-08-01-three-students/</link>
       <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
       <guid>https://pritykinlab.github.io/post/2021-08-01-three-students/</guid>
@@ -114,6 +130,14 @@ we developed &lt;a href=&#34;publication/2017-nat-biotech-guide-scan/index.html&
       <pubDate>Sat, 16 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://pritykinlab.github.io/post/2021-01-16-lab-opens/</guid>
       <description>&lt;p&gt;The Pritykin lab at the Lewis-Sigler Institute for Integrative Genomics opens its doors!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>FXR mediates T cell-intrinsic responses to reduced feeding during infection</title>
+      <link>https://pritykinlab.github.io/publication/2020-pnas-fxr/</link>
+      <pubDate>Tue, 29 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/publication/2020-pnas-fxr/</guid>
+      <description></description>
     </item>
     
     <item>

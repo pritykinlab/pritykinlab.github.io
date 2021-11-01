@@ -237,6 +237,45 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-YT39VMNKQ8"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-YT39VMNKQ8', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
   
@@ -878,11 +917,11 @@
     
     
       
-      <a href="/author/amanda-sun/"><img class="avatar avatar-circle" src="/author/amanda-sun/avatar_hud759c9fe771f7a41aa0887784ef54da9_55841_270x270_fill_q75_lanczos_center.jpeg" alt="Avatar"></a>
+      <a href="/author/gabriel-dolsten/"><img class="avatar avatar-circle" src="/author/gabriel-dolsten/avatar_hu73d6b2951cfc0598beff8aeaf7148269_31013_270x270_fill_q75_lanczos_center.jpeg" alt="Avatar"></a>
     
 
     <div class="portrait-title">
-      <h2><a href="/author/amanda-sun/">Amanda Sun</a></h2>
+      <h2><a href="/author/gabriel-dolsten/">Gabriel Dolsten</a></h2>
       
       <h3>PhD student</h3>
       <ul class="network-icon" aria-hidden="true">
@@ -907,11 +946,11 @@
     
     
       
-      <a href="/author/gabriel-dolsten/"><img class="avatar avatar-circle" src="/author/gabriel-dolsten/avatar_hu73d6b2951cfc0598beff8aeaf7148269_31013_270x270_fill_q75_lanczos_center.jpeg" alt="Avatar"></a>
+      <a href="/author/amanda-sun/"><img class="avatar avatar-circle" src="/author/amanda-sun/avatar_hud759c9fe771f7a41aa0887784ef54da9_55841_270x270_fill_q75_lanczos_center.jpeg" alt="Avatar"></a>
     
 
     <div class="portrait-title">
-      <h2><a href="/author/gabriel-dolsten/">Gabriel Dolsten</a></h2>
+      <h2><a href="/author/amanda-sun/">Amanda Sun</a></h2>
       
       <h3>PhD student</h3>
       <ul class="network-icon" aria-hidden="true">
@@ -942,7 +981,36 @@
     <div class="portrait-title">
       <h2><a href="/author/ian-traniello/">Ian Traniello</a></h2>
       
-      <h3>LSI Scholar (co-mentored with Sarah Kocher)</h3>
+      <h3>LSI Scholar (co-advised with Sarah Kocher)</h3>
+      <ul class="network-icon" aria-hidden="true">
+  
+</ul>
+
+      
+    </div>
+  </div>
+  
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      
+      <a href="/author/sarah-walker/"><img class="avatar avatar-circle" src="/author/sarah-walker/avatar_hu98393f0a69658d75155acbfb0cfdb403_48030_270x270_fill_q75_lanczos_center.jpeg" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="/author/sarah-walker/">Sarah Walker</a></h2>
+      
+      <h3>PhD student</h3>
       <ul class="network-icon" aria-hidden="true">
   
 </ul>
@@ -988,35 +1056,6 @@
         <i class="fas fa-envelope"></i>
       </a>
     </li>
-  
-</ul>
-
-      
-    </div>
-  </div>
-  
-  
-  
-  
-  
-    
-  
-  <div class="col-12 col-sm-auto people-person">
-    
-    
-      
-      
-    
-    
-      
-      <a href="/author/sarah-walker/"><img class="avatar avatar-circle" src="/author/sarah-walker/avatar_hu98393f0a69658d75155acbfb0cfdb403_48030_270x270_fill_q75_lanczos_center.jpeg" alt="Avatar"></a>
-    
-
-    <div class="portrait-title">
-      <h2><a href="/author/sarah-walker/">Sarah Walker</a></h2>
-      
-      <h3>PhD student</h3>
-      <ul class="network-icon" aria-hidden="true">
   
 </ul>
 

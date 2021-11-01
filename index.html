@@ -239,6 +239,45 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-YT39VMNKQ8"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-YT39VMNKQ8', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
   
@@ -907,8 +946,8 @@
 
 <div class="col-12 ">
 
-  <p>We develop computational methods for design and analysis of high-throughput functional genomic assays and perturbations, with a focus on multi-modal single-cell technologies. We apply these methods to study regulatory genomics of cell function and cell-cell interactions <em>in vivo</em> in close collaboration with experimental biologists, with a focus on immunology and cancer.</p>
-<p>Examples of our past and ongoing work are below.</p>
+  <p>We develop computational methods for design and analysis of high-throughput functional genomic assays and perturbations, with a focus on multi-modal single-cell, spatial and genome editing technologies. We apply these methods to study regulatory genomics of cell function and cell-cell interactions <em>in vivo</em>, with a focus on immunology and cancer.</p>
+<p>Examples of our past and ongoing work are presented below.</p>
 <br>
 
 
@@ -957,7 +996,7 @@
 
       
       <div class="article-style">
-        <p>CD8 T cells form the central component of adaptive immune system and are essential in defense against viral and bacterial infections and in tumor immunity. Better molecular characterization of CD8 T cells in different contexts is fundamentally important and can lead to improved clinical results in cancer immunotherapies, infectious diseases, autoimmunity. We performed an extensive genomic, single-cell, and transcription factor <a href="publication/2020-cd8t/index.html">analysis</a> of CD8 T cell functional and dysfunctional states. We now continue studying regulatory mechanisms and cell-cell interactions governing CD8 T cell activation and functional commitment across immune challenges using single-cell multi-omics.</p>
+        <p>CD8 T cells form the central component of adaptive immune system and are essential in defense against viral and bacterial infections and in tumor immunity. Better molecular characterization of CD8 T cells in different contexts is fundamentally important and can lead to improved clinical results in cancer immunotherapies, infectious diseases, autoimmunity. We performed an extensive genomic, single-cell, and transcription factor <a href="publication/2021-cd8t/index.html">analysis</a> of CD8 T cell functional and dysfunctional states. We now continue studying regulatory mechanisms and cell-cell interactions governing CD8 T cell activation and functional commitment across immune challenges using single-cell and spatial multi-omics.</p>
       </div>
       
 
@@ -1044,7 +1083,7 @@
 
       
       <div class="article-style">
-        <p>Regulatory T (Treg) cells are critical for tolerance to self-antigens and preventing autoimmunity. Their differentiation and function are controlled by transcription factor Foxp3, but mechanistic understanding of Foxp3 role remains elusive. Using functional genomic analysis, <a href="publication/2019-nat-immunol-foxp-1-foxp-3-treg/index.html">we explored</a> Foxp3 function and its interaction with a highly expressed closely related factor Foxp1. We are now studying the role of Foxp3 and other factors in organizing chromatin architecture of Treg cells.</p>
+        <p>Regulatory T (Treg) cells are critical for tolerance to self-antigens and preventing autoimmunity. Their differentiation and function are controlled by transcription factor Foxp3, but mechanistic understanding of Foxp3 role remains elusive. Using functional genomic analysis, <a href="publication/2019-nat-immunol-foxp-1-foxp-3-treg/index.html">we explored</a> Foxp3 function and its interaction with a highly expressed closely related factor Foxp1. We are now studying the role of Foxp3 and other factors in chromatin organization of Treg cells.</p>
       </div>
       
 
@@ -1219,7 +1258,7 @@ we developed <a href="publication/2017-nat-biotech-guide-scan/index.html">GuideS
 
       
       <div class="article-style">
-        <p>Cross-linking immunoprecipitation followed by sequencing (CLIP-seq) is a family of methods for profiling sites of protein binding to RNA. In particular, CLIP has been used to identify targets of microRNAs, small non-coding RNA molecules that, when bound to a protein Ago2, regulate gene expression post-transcriptionally. We developed a new algorithm <a href="https://bitbucket.org/leslielab/clipanalyze" target="_blank" rel="noopener">CLIPanalyze</a> for analysis of such data and used it for <a href="publication/2020-mol-cell-heap/index.html">comprehensive analysis</a> of microRNA targets <em>in vivo</em> in mouse embryonic stem cells, developing embryos, adult tissues and multiple cancer models.</p>
+        <p>Cross-linking immunoprecipitation followed by sequencing (CLIP-seq) is a family of methods for profiling sites of protein binding to RNA. In particular, CLIP has been used to identify targets of microRNAs, small non-coding RNA molecules that, when bound to a protein Ago2, regulate gene expression post-transcriptionally. We developed a new algorithm <a href="https://bitbucket.org/leslielab/clipanalyze" target="_blank" rel="noopener">CLIPanalyze</a> for analysis of such data and used it for <a href="publication/2020-mol-cell-heap/index.html">comprehensive analysis</a> of microRNA targets <em>in vivo</em> in mouse embryonic stem cells, developing embryos, adult tissues and multiple cancer models. We now continue development and application of methods for studies of post-transcriptional regulation.</p>
       </div>
       
 
@@ -1413,7 +1452,85 @@ we developed <a href="publication/2017-nat-biotech-guide-scan/index.html">GuideS
   <div class="media-body">
 
     <div class="section-subheading article-title mb-0 mt-0">
-      <a href="/post/2021-10-15-ian-lsi-scholar/" >LSI Scholar Dr. Ian Traniello joins the lab</a>
+      <a href="/post/2021-11-01-new-lab-website/" >New Pritykin Lab website is launched</a>
+    </div>
+
+    
+
+    <div class="stream-meta article-metadata">
+
+      
+
+      
+        
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    Nov 1, 2021
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+      
+    </div>
+
+    
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+    
+  
+    
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="media stream-item">
+  <div class="media-body">
+
+    <div class="section-subheading article-title mb-0 mt-0">
+      <a href="/post/2021-10-15-ian-lsi-scholar/" >Dr. Ian Traniello joins the lab as LSI Scholar</a>
     </div>
 
     
@@ -1569,7 +1686,7 @@ we developed <a href="publication/2017-nat-biotech-guide-scan/index.html">GuideS
   <div class="media-body">
 
     <div class="section-subheading article-title mb-0 mt-0">
-      <a href="/post/2021-08-01-three-students/" >Three QCB students, Amanda Sun, Sarah Walker, and Gabe Dolsten, join the lab</a>
+      <a href="/post/2021-08-01-three-students/" >Three QCB students, Amanda Sun, Sarah Walker and Gabe Dolsten, join the lab</a>
     </div>
 
     
@@ -1672,84 +1789,6 @@ we developed <a href="publication/2017-nat-biotech-guide-scan/index.html">GuideS
       
     
     Jul 1, 2021
-  </span>
-  
-
-  
-
-  
-
-  
-  
-  
-  
-  
-  
-
-  
-  
-
-</div>
-
-      
-    </div>
-
-    
-
-  </div>
-  <div class="ml-3">
-    
-    
-  </div>
-</div>
-
-    
-  
-    
-      
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="media stream-item">
-  <div class="media-body">
-
-    <div class="section-subheading article-title mb-0 mt-0">
-      <a href="/post/2021-04-22-mol-cell-paper/" >Our paper &#34;A unified atlas of CD8 T cell dysfunctional states in cancer and infection&#34; appears online at Molecular Cell</a>
-    </div>
-
-    
-
-    <div class="stream-meta article-metadata">
-
-      
-
-      
-        
-
-
-<div class="article-metadata">
-
-  
-  
-
-  
-  <span class="article-date">
-    
-    
-      
-    
-    Apr 22, 2021
   </span>
   
 
@@ -2026,11 +2065,11 @@ we developed <a href="publication/2017-nat-biotech-guide-scan/index.html">GuideS
     
     
       
-      <a href="/author/amanda-sun/"><img class="avatar avatar-circle" src="/author/amanda-sun/avatar_hud759c9fe771f7a41aa0887784ef54da9_55841_270x270_fill_q75_lanczos_center.jpeg" alt="Avatar"></a>
+      <a href="/author/gabriel-dolsten/"><img class="avatar avatar-circle" src="/author/gabriel-dolsten/avatar_hu73d6b2951cfc0598beff8aeaf7148269_31013_270x270_fill_q75_lanczos_center.jpeg" alt="Avatar"></a>
     
 
     <div class="portrait-title">
-      <h2><a href="/author/amanda-sun/">Amanda Sun</a></h2>
+      <h2><a href="/author/gabriel-dolsten/">Gabriel Dolsten</a></h2>
       
       <h3>PhD student</h3>
       <ul class="network-icon" aria-hidden="true">
@@ -2055,11 +2094,11 @@ we developed <a href="publication/2017-nat-biotech-guide-scan/index.html">GuideS
     
     
       
-      <a href="/author/gabriel-dolsten/"><img class="avatar avatar-circle" src="/author/gabriel-dolsten/avatar_hu73d6b2951cfc0598beff8aeaf7148269_31013_270x270_fill_q75_lanczos_center.jpeg" alt="Avatar"></a>
+      <a href="/author/amanda-sun/"><img class="avatar avatar-circle" src="/author/amanda-sun/avatar_hud759c9fe771f7a41aa0887784ef54da9_55841_270x270_fill_q75_lanczos_center.jpeg" alt="Avatar"></a>
     
 
     <div class="portrait-title">
-      <h2><a href="/author/gabriel-dolsten/">Gabriel Dolsten</a></h2>
+      <h2><a href="/author/amanda-sun/">Amanda Sun</a></h2>
       
       <h3>PhD student</h3>
       <ul class="network-icon" aria-hidden="true">
@@ -2090,7 +2129,36 @@ we developed <a href="publication/2017-nat-biotech-guide-scan/index.html">GuideS
     <div class="portrait-title">
       <h2><a href="/author/ian-traniello/">Ian Traniello</a></h2>
       
-      <h3>LSI Scholar (co-mentored with Sarah Kocher)</h3>
+      <h3>LSI Scholar (co-advised with Sarah Kocher)</h3>
+      <ul class="network-icon" aria-hidden="true">
+  
+</ul>
+
+      
+    </div>
+  </div>
+  
+  
+  
+  
+  
+    
+  
+  <div class="col-12 col-sm-auto people-person">
+    
+    
+      
+      
+    
+    
+      
+      <a href="/author/sarah-walker/"><img class="avatar avatar-circle" src="/author/sarah-walker/avatar_hu98393f0a69658d75155acbfb0cfdb403_48030_270x270_fill_q75_lanczos_center.jpeg" alt="Avatar"></a>
+    
+
+    <div class="portrait-title">
+      <h2><a href="/author/sarah-walker/">Sarah Walker</a></h2>
+      
+      <h3>PhD student</h3>
       <ul class="network-icon" aria-hidden="true">
   
 </ul>
@@ -2136,35 +2204,6 @@ we developed <a href="publication/2017-nat-biotech-guide-scan/index.html">GuideS
         <i class="fas fa-envelope"></i>
       </a>
     </li>
-  
-</ul>
-
-      
-    </div>
-  </div>
-  
-  
-  
-  
-  
-    
-  
-  <div class="col-12 col-sm-auto people-person">
-    
-    
-      
-      
-    
-    
-      
-      <a href="/author/sarah-walker/"><img class="avatar avatar-circle" src="/author/sarah-walker/avatar_hu98393f0a69658d75155acbfb0cfdb403_48030_270x270_fill_q75_lanczos_center.jpeg" alt="Avatar"></a>
-    
-
-    <div class="portrait-title">
-      <h2><a href="/author/sarah-walker/">Sarah Walker</a></h2>
-      
-      <h3>PhD student</h3>
-      <ul class="network-icon" aria-hidden="true">
   
 </ul>
 
@@ -2358,8 +2397,14 @@ we developed <a href="publication/2017-nat-biotech-guide-scan/index.html">GuideS
 
 
   
+    
+  
 
 
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/files/2021-mol-cell-cd8t.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
 
 
 
@@ -2379,6 +2424,22 @@ we developed <a href="publication/2017-nat-biotech-guide-scan/index.html">GuideS
   DOI
 </a>
 
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1101/2020.07.25.220673" target="_blank" rel="noopener">
+    
+    bioRxiv
+  </a>
 
 
     </div>
@@ -2499,6 +2560,22 @@ we developed <a href="publication/2017-nat-biotech-guide-scan/index.html">GuideS
   DOI
 </a>
 
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1101/820548" target="_blank" rel="noopener">
+    
+    bioRxiv
+  </a>
 
 
     </div>
@@ -2916,22 +2993,23 @@ we developed <a href="publication/2017-nat-biotech-guide-scan/index.html">GuideS
     
 
   <span >
-      <a href="/author/chrysothemis-c-brown/">Chrysothemis C Brown</a></span>, <span >
-      <a href="/author/herman-gudjonson/">Herman Gudjonson</a></span>, <span >
+      <a href="/author/minggang-zhang/">Minggang Zhang</a></span>, <span >
+      <a href="/author/zeguo-zhao/">Zeguo Zhao</a></span>, <span >
       <a href="/author/yuri-pritykin/">Yuri Pritykin</a></span>, <span >
-      <a href="/author/deeksha-deep/">Deeksha Deep</a></span>, <span >
-      <a href="/author/vincent-philippe-lavallee/">Vincent-Philippe Lavallée</a></span>, <span >
-      <a href="/author/alejandra-mendoza/">Alejandra Mendoza</a></span>, <span >
-      <a href="/author/rachel-fromme/">Rachel Fromme</a></span>, <span >
-      <a href="/author/linas-mazutis/">Linas Mazutis</a></span>, <span >
-      <a href="/author/charlotte-ariyan/">Charlotte Ariyan</a></span>, <span >
-      <a href="/author/christina-leslie/">Christina Leslie</a></span>, <span >
-      <a href="/author/dana-peer/">Dana Pe’er</a></span>, <span >
-      <a href="/author/alexander-y-rudensky/">Alexander Y Rudensky</a></span>
+      <a href="/author/margaret-hannum/">Margaret Hannum</a></span>, <span >
+      <a href="/author/andrew-c.-scott/">Andrew C. Scott</a></span>, <span >
+      <a href="/author/fengshen-kuo/">Fengshen Kuo</a></span>, <span >
+      <a href="/author/viraj-sanghvi/">Viraj Sanghvi</a></span>, <span >
+      <a href="/author/timothy-a.-chan/">Timothy A. Chan</a></span>, <span >
+      <a href="/author/venkatraman-seshan/">Venkatraman Seshan</a></span>, <span >
+      <a href="/author/hans-guido-wendel/">Hans-Guido Wendel</a></span>, <span >
+      <a href="/author/andrea-schietinger/">Andrea Schietinger</a></span>, <span >
+      <a href="/author/michel-sadelain/">Michel Sadelain</a></span>, <span >
+      <a href="/author/morgan-huse/">Morgan Huse</a></span>
   </span>
-  (2019).
-  <a href="/publication/2019-cell-dcs/">Transcriptional basis of mouse and human dendritic cell heterogeneity</a>.
-  <em>Cell</em>.
+  (2021).
+  <a href="/publication/2021-sci-transl-med-mir200/">Ectopic activation of the miR-200c–EpCAM axis enhances antitumor T cell responses in models of adoptive cell therapy</a>.
+  <em>Science Translational Medicine</em>.
   
   <p>
 
@@ -2948,7 +3026,7 @@ we developed <a href="publication/2017-nat-biotech-guide-scan/index.html">GuideS
 
 
 
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="/files/2019-cell-DCs.pdf" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/files/2021-sci-transl-med-cd8t.pdf" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -2966,7 +3044,7 @@ we developed <a href="publication/2017-nat-biotech-guide-scan/index.html">GuideS
 
 
 
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1016/j.cell.2019.09.035" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/doi:10.1126/scitranslmed.abg4328" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -2992,18 +3070,21 @@ we developed <a href="publication/2017-nat-biotech-guide-scan/index.html">GuideS
     
 
   <span >
-      <a href="/author/colleen-m-lau/">Colleen M Lau</a></span>, <span >
-      <a href="/author/nicholas-m-adams/">Nicholas M Adams</a></span>, <span >
-      <a href="/author/clair-d-geary/">Clair D Geary</a></span>, <span >
-      <a href="/author/orr-el-weizman/">Orr-El Weizman</a></span>, <span >
-      <a href="/author/moritz-rapp/">Moritz Rapp</a></span>, <span >
+      <a href="/author/clarissa-campbell/">Clarissa Campbell</a></span>, <span >
+      <a href="/author/francois-marchildon/">Francois Marchildon</a></span>, <span >
+      <a href="/author/anthony-j.-michaels/">Anthony J. Michaels</a></span>, <span >
+      <a href="/author/naofumi-takemoto/">Naofumi Takemoto</a></span>, <span >
+      <a href="/author/joris-van-der-veeken/">Joris van der Veeken</a></span>, <span >
+      <a href="/author/michail-schizas/">Michail Schizas</a></span>, <span >
       <a href="/author/yuri-pritykin/">Yuri Pritykin</a></span>, <span >
-      <a href="/author/christina-s-leslie/">Christina S Leslie</a></span>, <span >
-      <a href="/author/joseph-c-sun/">Joseph C Sun</a></span>
+      <a href="/author/christina-s.-leslie/">Christina S. Leslie</a></span>, <span >
+      <a href="/author/andrew-m.-intlekofer/">Andrew M. Intlekofer</a></span>, <span >
+      <a href="/author/paul-cohen/">Paul Cohen</a></span>, <span >
+      <a href="/author/alexander-y.-rudensky/">Alexander Y. Rudensky</a></span>
   </span>
-  (2018).
-  <a href="/publication/2018-nat-immunol-epigenetic/">Epigenetic control of innate and adaptive immune memory</a>.
-  <em>Nature Immunology</em>.
+  (2020).
+  <a href="/publication/2020-pnas-fxr/">FXR mediates T cell-intrinsic responses to reduced feeding during infection</a>.
+  <em>Proceedings of the National Academy of Sciences</em>.
   
   <p>
 
@@ -3015,43 +3096,33 @@ we developed <a href="publication/2017-nat-biotech-guide-scan/index.html">GuideS
 
 
   
+    
+  
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1038/s41590-018-0176-1" target="_blank" rel="noopener">
-  DOI
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/files/2020-pnas-fxr.pdf" target="_blank" rel="noopener">
+  PDF
 </a>
 
 
-  
-  
-  
-    
-  
-  
-  
-  
-  
-    
-  
-  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://rdcu.be/bxOGY" target="_blank" rel="noopener">
-    
-    rdcu
-  </a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1073/pnas.2020619117" target="_blank" rel="noopener">
+  DOI
+</a>
+
 
 </p>
 
@@ -3082,6 +3153,171 @@ we developed <a href="publication/2017-nat-biotech-guide-scan/index.html">GuideS
   
 
 </div>
+
+
+    
+      </div>
+    
+
+    </div>
+  </section>
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+  <section id="jobs" class="home-section wg-blank  "  >
+   <div class="home-section-bg " ></div>
+    <div class="container">
+
+    
+      <div class="row  justify-content-center">
+      
+        
+          <div class="section-heading col-12 mb-3 text-center">
+            <h1 class="mb-0">Join us</h1>
+            
+          </div>
+        
+      
+    
+
+      
+
+
+
+  <div class="col-12">
+    <p>We are actively looking for outstanding scientists at all levels (postdocs, graduate and undergraduate students, staff scientists) across disciplines (computational biology, computer science, machine learning, applied mathematics, immunology, molecular biology) to join our team. Please <a href="#contact">contact us</a> if interested.</p>
+<p>Postdoctoral positions in computational biology are available. We seek candidates with computational, bioinformatics, machine learning, statistics, data science and/or other quantitative backgrounds who are enthusiastic about bringing their expertise to address fundamental problems in biology and medicine using cutting-edge technologies. A successful candidate will have an opportunity to lead and contribute to a range of exciting collaborative projects, and develop new projects. Please <a href="https://puwebp.princeton.edu/AcadHire/apply/application.xhtml?listingId=18963" target="_blank" rel="noopener">apply here</a> or <a href="#contact">contact us</a> directly.</p>
+<p>We are also looking to co-sponsor exceptional candidates for <a href="https://lsi.princeton.edu/opportunities/ewis-sigler-scholars-program" target="_blank" rel="noopener">Lewis-Sigler Scholars Program</a> (next deadline anticipated in Fall 2022) and <a href="https://www.princeton.edu/acad-positions/position/23003" target="_blank" rel="noopener">Princeton Bioengineering Initiative Research Scholars</a> (deadline December 15, 2021).</p>
+<p>Prospective PhD students interested in working with us are encouraged to apply to <a href="https://www.cs.princeton.edu/grad" target="_blank" rel="noopener">Computer Science</a> or <a href="https://lsi.princeton.edu/qcbgraduate" target="_blank" rel="noopener">Quantitative and Computational Biology</a>
+graduate programs. We are also accepting Masters students via <a href="https://www.cs.princeton.edu/grad" target="_blank" rel="noopener">CS MSE</a> program.</p>
+<p>Current Princeton graduate and undergraduate students interested in working with us are encouraged to <a href="#contact">contact us</a> directly.</p>
+
+  </div>
+
+
+
+    
+      </div>
+    
+
+    </div>
+  </section>
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+
+  
+  
+
+  
+
+  
+  
+
+  
+  
+
+  
+  <section id="teaching" class="home-section wg-blank  "  >
+   <div class="home-section-bg " ></div>
+    <div class="container">
+
+    
+      <div class="row  justify-content-center">
+      
+        
+          <div class="section-heading col-12 mb-3 text-center">
+            <h1 class="mb-0">Teaching</h1>
+            
+          </div>
+        
+      
+    
+
+      
+
+
+
+  <div class="col-12">
+    <ul>
+<li>Fall 2021: <a href="https://registrar.princeton.edu/course-offerings/course-details?term=1222&amp;courseid=002125" target="_blank" rel="noopener">COS 597D Advanced Computational Genomics</a></li>
+</ul>
+
+  </div>
+
 
 
     

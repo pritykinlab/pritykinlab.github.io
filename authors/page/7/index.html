@@ -237,6 +237,45 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-YT39VMNKQ8"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-YT39VMNKQ8', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
   
@@ -284,7 +323,7 @@
     <meta property="twitter:image" content="https://pritykinlab.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
   
     
-      <meta property="og:updated_time" content="2021-04-22T00:00:00&#43;00:00" />
+      <meta property="og:updated_time" content="2021-09-15T00:00:00&#43;00:00" />
     
   
 
@@ -695,34 +734,34 @@
     
     
       
-      <li><a href="https://pritykinlab.github.io/author/lee-zamparo/">Lee Zamparo</a></li>
+      <li><a href="https://pritykinlab.github.io/author/vincent-philippe-lavallee/">Vincent-Philippe Lavallée</a></li>
     
       
-      <li><a href="https://pritykinlab.github.io/author/sagar-chhangawala/">Sagar Chhangawala</a></li>
+      <li><a href="https://pritykinlab.github.io/author/catherine-konopacki/">Catherine Konopacki</a></li>
     
       
-      <li><a href="https://pritykinlab.github.io/author/ahmed-toure/">Ahmed Toure</a></li>
+      <li><a href="https://pritykinlab.github.io/author/yury-rubtsov/">Yury Rubtsov</a></li>
     
       
-      <li><a href="https://pritykinlab.github.io/author/benjamin-m.-whitlock/">Benjamin M. Whitlock</a></li>
+      <li><a href="https://pritykinlab.github.io/author/clair-d-geary/">Clair D Geary</a></li>
     
       
-      <li><a href="https://pritykinlab.github.io/author/chong-t.-luo/">Chong T. Luo</a></li>
+      <li><a href="https://pritykinlab.github.io/author/colleen-m-lau/">Colleen M Lau</a></li>
     
       
-      <li><a href="https://pritykinlab.github.io/author/ming-o.-li/">Ming O. Li</a></li>
+      <li><a href="https://pritykinlab.github.io/author/joseph-c-sun/">Joseph C Sun</a></li>
     
       
-      <li><a href="https://pritykinlab.github.io/author/morgan-huse/">Morgan Huse</a></li>
+      <li><a href="https://pritykinlab.github.io/author/moritz-rapp/">Moritz Rapp</a></li>
     
       
-      <li><a href="https://pritykinlab.github.io/author/ruth-a.-franklin/">Ruth A. Franklin</a></li>
+      <li><a href="https://pritykinlab.github.io/author/nicholas-m-adams/">Nicholas M Adams</a></li>
     
       
-      <li><a href="https://pritykinlab.github.io/author/soyoung-a.-oh/">Soyoung A. Oh</a></li>
+      <li><a href="https://pritykinlab.github.io/author/orr-el-weizman/">Orr-El Weizman</a></li>
     
       
-      <li><a href="https://pritykinlab.github.io/author/saida-dadi/">Säida Dadi</a></li>
+      <li><a href="https://pritykinlab.github.io/author/allan-r-thomsen/">Allan R Thomsen</a></li>
     
   </ul>
 

@@ -237,6 +237,45 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-YT39VMNKQ8"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-YT39VMNKQ8', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
   
@@ -675,19 +714,19 @@
     
       <li><a href="/post/">News</a></li>
     
-      <li><a href="/post/2021-10-15-ian-lsi-scholar/">LSI Scholar Dr. Ian Traniello joins the lab</a></li>
+      <li><a href="/post/2021-11-01-new-lab-website/">New Pritykin Lab website is launched</a></li>
+    
+      <li><a href="/post/2021-10-15-ian-lsi-scholar/">Dr. Ian Traniello joins the lab as LSI Scholar</a></li>
     
       <li><a href="/research/">Researches</a></li>
     
-      <li><a href="/post/2021-09-01-biocondensate/">Pritykin lab receives funding from Princeton Biomolecular Condensate Program with the Levine lab</a></li>
-    
-      <li><a href="/post/2021-08-01-three-students/">Three QCB students, Amanda Sun, Sarah Walker, and Gabe Dolsten, join the lab</a></li>
-    
-      <li><a href="/post/2021-07-01-rutgers-new-investigator/">Pritykin Lab receives New Investigator Award from Rutgers Cancer Institute of New Jersey</a></li>
-    
       <li><a href="/publication/">Publications</a></li>
     
-      <li><a href="/post/2021-04-22-mol-cell-paper/">Our paper &#34;A unified atlas of CD8 T cell dysfunctional states in cancer and infection&#34; appears online at Molecular Cell</a></li>
+      <li><a href="/publication/2021-sci-transl-med-mir200/">Ectopic activation of the miR-200c–EpCAM axis enhances antitumor T cell responses in models of adoptive cell therapy</a></li>
+    
+      <li><a href="/post/2021-09-01-biocondensate/">Pritykin lab receives funding from Princeton Biomolecular Condensate Program with the Levine lab</a></li>
+    
+      <li><a href="/post/2021-08-01-three-students/">Three QCB students, Amanda Sun, Sarah Walker and Gabe Dolsten, join the lab</a></li>
     
   </ul>
   

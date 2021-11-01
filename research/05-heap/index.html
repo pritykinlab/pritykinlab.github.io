@@ -30,7 +30,7 @@
   
     
   
-  <meta name="description" content="Cross-linking immunoprecipitation followed by sequencing (CLIP-seq) is a family of methods for profiling sites of protein binding to RNA. In particular, CLIP has been used to identify targets of microRNAs, small non-coding RNA molecules that, when bound to a protein Ago2, regulate gene expression post-transcriptionally. We developed a new algorithm CLIPanalyze for analysis of such data and used it for comprehensive analysis of microRNA targets in vivo in mouse embryonic stem cells, developing embryos, adult tissues and multiple cancer models." />
+  <meta name="description" content="Cross-linking immunoprecipitation followed by sequencing (CLIP-seq) is a family of methods for profiling sites of protein binding to RNA. In particular, CLIP has been used to identify targets of microRNAs, small non-coding RNA molecules that, when bound to a protein Ago2, regulate gene expression post-transcriptionally. We developed a new algorithm CLIPanalyze for analysis of such data and used it for comprehensive analysis of microRNA targets in vivo in mouse embryonic stem cells, developing embryos, adult tissues and multiple cancer models. We now continue development and application of methods for studies of post-transcriptional regulation." />
 
   
   <link rel="alternate" hreflang="en-us" href="https://pritykinlab.github.io/research/05-heap/" />
@@ -237,6 +237,45 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-YT39VMNKQ8"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-YT39VMNKQ8', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
   
@@ -277,7 +316,7 @@
   <meta property="og:site_name" content="Pritykin Lab" />
   <meta property="og:url" content="https://pritykinlab.github.io/research/05-heap/" />
   <meta property="og:title" content=" | Pritykin Lab" />
-  <meta property="og:description" content="Cross-linking immunoprecipitation followed by sequencing (CLIP-seq) is a family of methods for profiling sites of protein binding to RNA. In particular, CLIP has been used to identify targets of microRNAs, small non-coding RNA molecules that, when bound to a protein Ago2, regulate gene expression post-transcriptionally. We developed a new algorithm CLIPanalyze for analysis of such data and used it for comprehensive analysis of microRNA targets in vivo in mouse embryonic stem cells, developing embryos, adult tissues and multiple cancer models." /><meta property="og:image" content="https://pritykinlab.github.io/research/05-heap/featured.png" />
+  <meta property="og:description" content="Cross-linking immunoprecipitation followed by sequencing (CLIP-seq) is a family of methods for profiling sites of protein binding to RNA. In particular, CLIP has been used to identify targets of microRNAs, small non-coding RNA molecules that, when bound to a protein Ago2, regulate gene expression post-transcriptionally. We developed a new algorithm CLIPanalyze for analysis of such data and used it for comprehensive analysis of microRNA targets in vivo in mouse embryonic stem cells, developing embryos, adult tissues and multiple cancer models. We now continue development and application of methods for studies of post-transcriptional regulation." /><meta property="og:image" content="https://pritykinlab.github.io/research/05-heap/featured.png" />
     <meta property="twitter:image" content="https://pritykinlab.github.io/research/05-heap/featured.png" /><meta property="og:locale" content="en-us" />
   
     
@@ -748,7 +787,7 @@
   <div class="article-container">
 
     <div class="article-style">
-      <p>Cross-linking immunoprecipitation followed by sequencing (CLIP-seq) is a family of methods for profiling sites of protein binding to RNA. In particular, CLIP has been used to identify targets of microRNAs, small non-coding RNA molecules that, when bound to a protein Ago2, regulate gene expression post-transcriptionally. We developed a new algorithm <a href="https://bitbucket.org/leslielab/clipanalyze" target="_blank" rel="noopener">CLIPanalyze</a> for analysis of such data and used it for <a href="publication/2020-mol-cell-heap/index.html">comprehensive analysis</a> of microRNA targets <em>in vivo</em> in mouse embryonic stem cells, developing embryos, adult tissues and multiple cancer models.</p>
+      <p>Cross-linking immunoprecipitation followed by sequencing (CLIP-seq) is a family of methods for profiling sites of protein binding to RNA. In particular, CLIP has been used to identify targets of microRNAs, small non-coding RNA molecules that, when bound to a protein Ago2, regulate gene expression post-transcriptionally. We developed a new algorithm <a href="https://bitbucket.org/leslielab/clipanalyze" target="_blank" rel="noopener">CLIPanalyze</a> for analysis of such data and used it for <a href="publication/2020-mol-cell-heap/index.html">comprehensive analysis</a> of microRNA targets <em>in vivo</em> in mouse embryonic stem cells, developing embryos, adult tissues and multiple cancer models. We now continue development and application of methods for studies of post-transcriptional regulation.</p>
     </div>
 
     

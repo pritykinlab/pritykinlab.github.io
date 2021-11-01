@@ -237,6 +237,45 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-YT39VMNKQ8"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-YT39VMNKQ8', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
   
@@ -284,7 +323,7 @@
     <meta property="twitter:image" content="https://pritykinlab.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
   
     
-      <meta property="og:updated_time" content="2021-04-22T00:00:00&#43;00:00" />
+      <meta property="og:updated_time" content="2021-09-15T00:00:00&#43;00:00" />
     
   
 
@@ -695,10 +734,34 @@
     
     
     <div>
+      <h2><a href="/publication/2021-sci-transl-med-mir200/" >Ectopic activation of the miR-200c–EpCAM axis enhances antitumor T cell responses in models of adoptive cell therapy</a></h2>
+      <div class="article-style">
+        
+          Adoptive T cell therapy (ACT) is a promising strategy for treating cancer, but it often fails because of cell intrinsic regulatory programs that limit the degree or duration of T cell function. In this study, we found that ectopic expression of …
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
       <h2><a href="/publication/2021-cd8t/" >A unified atlas of CD8 T cell dysfunctional states in cancer and infection</a></h2>
       <div class="article-style">
         
           CD8 T cells play an essential role in defense against viral and bacterial infections and in tumor immunity. Deciphering T cell loss of functionality is complicated by the conspicuous heterogeneity of CD8 T cell states described across experimental …
+        
+      </div>
+    </div>
+  
+    
+    
+    
+    <div>
+      <h2><a href="/publication/2020-pnas-fxr/" >FXR mediates T cell-intrinsic responses to reduced feeding during infection</a></h2>
+      <div class="article-style">
+        
+          Reduced nutrient intake is a widely conserved manifestation of sickness behavior with poorly characterized effects on adaptive immune responses. During infectious challenges, naive T cells encountering their cognate antigen become activated and …
         
       </div>
     </div>
@@ -775,28 +838,6 @@
       <div class="article-style">
         
           Piwi-interacting RNAs (piRNAs) are central components of the piRNA pathway, which directs transposon silencing and guarantees genome integrity in the germ cells of several metazoans. In Drosophila, piRNAs are produced from discrete regions of the …
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/2017-nat-biotech-guide-scan/" >GuideScan software for improved single and paired CRISPR guide RNA design</a></h2>
-      <div class="article-style">
-        
-          We present GuideScan software for the design of CRISPR guide RNA libraries that can be used to edit coding and noncoding genomic regions. GuideScan produces high-density sets of guide RNAs (gRNAs) for single- and paired-gRNA genome-wide screens. We …
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/2016-cell-ilc-dadi/" >Cancer Immunosurveillance by Tissue-Resident Innate Lymphoid Cells and Innate-like T Cells</a></h2>
-      <div class="article-style">
         
       </div>
     </div>

@@ -5,7 +5,7 @@
     <link>https://pritykinlab.github.io/post/</link>
       <atom:link href="https://pritykinlab.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>News</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 15 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://pritykinlab.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>News</title>
@@ -13,7 +13,15 @@
     </image>
     
     <item>
-      <title>LSI Scholar Dr. Ian Traniello joins the lab</title>
+      <title>New Pritykin Lab website is launched</title>
+      <link>https://pritykinlab.github.io/post/2021-11-01-new-lab-website/</link>
+      <pubDate>Mon, 01 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/post/2021-11-01-new-lab-website/</guid>
+      <description>&lt;p&gt;New website of the Pritykin lab is launched at &lt;a href=&#34;https://pritykinlab.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;pritykinlab.github.io&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Dr. Ian Traniello joins the lab as LSI Scholar</title>
       <link>https://pritykinlab.github.io/post/2021-10-15-ian-lsi-scholar/</link>
       <pubDate>Fri, 15 Oct 2021 00:00:00 +0000</pubDate>
       <guid>https://pritykinlab.github.io/post/2021-10-15-ian-lsi-scholar/</guid>
@@ -29,7 +37,7 @@
     </item>
     
     <item>
-      <title>Three QCB students, Amanda Sun, Sarah Walker, and Gabe Dolsten, join the lab</title>
+      <title>Three QCB students, Amanda Sun, Sarah Walker and Gabe Dolsten, join the lab</title>
       <link>https://pritykinlab.github.io/post/2021-08-01-three-students/</link>
       <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
       <guid>https://pritykinlab.github.io/post/2021-08-01-three-students/</guid>

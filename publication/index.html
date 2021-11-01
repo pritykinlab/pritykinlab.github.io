@@ -237,6 +237,45 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-YT39VMNKQ8"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-YT39VMNKQ8', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
   
@@ -284,7 +323,7 @@
     <meta property="twitter:image" content="https://pritykinlab.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
   
     
-      <meta property="og:updated_time" content="2021-04-22T00:00:00&#43;00:00" />
+      <meta property="og:updated_time" content="2021-09-15T00:00:00&#43;00:00" />
     
   
 
@@ -766,6 +805,12 @@
         
         
       
+        
+        
+      
+        
+        
+      
 
       <div class="form-row mb-4">
         <div class="col-auto">
@@ -883,6 +928,91 @@
     
 
   <span >
+      <a href="/author/minggang-zhang/">Minggang Zhang</a></span>, <span >
+      <a href="/author/zeguo-zhao/">Zeguo Zhao</a></span>, <span >
+      <a href="/author/yuri-pritykin/">Yuri Pritykin</a></span>, <span >
+      <a href="/author/margaret-hannum/">Margaret Hannum</a></span>, <span >
+      <a href="/author/andrew-c.-scott/">Andrew C. Scott</a></span>, <span >
+      <a href="/author/fengshen-kuo/">Fengshen Kuo</a></span>, <span >
+      <a href="/author/viraj-sanghvi/">Viraj Sanghvi</a></span>, <span >
+      <a href="/author/timothy-a.-chan/">Timothy A. Chan</a></span>, <span >
+      <a href="/author/venkatraman-seshan/">Venkatraman Seshan</a></span>, <span >
+      <a href="/author/hans-guido-wendel/">Hans-Guido Wendel</a></span>, <span >
+      <a href="/author/andrea-schietinger/">Andrea Schietinger</a></span>, <span >
+      <a href="/author/michel-sadelain/">Michel Sadelain</a></span>, <span >
+      <a href="/author/morgan-huse/">Morgan Huse</a></span>
+  </span>
+  (2021).
+  <a href="/publication/2021-sci-transl-med-mir200/">Ectopic activation of the miR-200c–EpCAM axis enhances antitumor T cell responses in models of adoptive cell therapy</a>.
+  <em>Science Translational Medicine</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/files/2021-sci-transl-med-cd8t.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/doi:10.1126/scitranslmed.abg4328" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2021">
+          
+            
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  <span >
       <a href="/author/yuri-pritykin/">Yuri Pritykin</a></span><i class="author-notes fas fa-info-circle" data-toggle="tooltip" title="Equal contribution"></i>, <span >
       <a href="/author/joris-van-der-veeken/">Joris van der Veeken</a></span><i class="author-notes fas fa-info-circle" data-toggle="tooltip" title="Equal contribution"></i>, <span >
       <a href="/author/allison-pine/">Allison Pine</a></span>, <span >
@@ -895,7 +1025,7 @@
   </span>
   (2021).
   <a href="/publication/2021-cd8t/">A unified atlas of CD8 T cell dysfunctional states in cancer and infection</a>.
-  <em>bioRxiv</em>.
+  <em>Molecular Cell</em>.
   
   <p>
 
@@ -907,8 +1037,14 @@
 
 
   
+    
+  
 
 
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/files/2021-mol-cell-cd8t.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
 
 
 
@@ -925,6 +1061,105 @@
 
 
 <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1016/j.molcel.2021.03.045" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1101/2020.07.25.220673" target="_blank" rel="noopener">
+    
+    bioRxiv
+  </a>
+
+</p>
+
+  
+  
+</div>
+
+          
+        </div>
+
+        
+
+        
+          
+        
+
+        <div class="grid-sizer col-lg-12 isotope-item pubtype-2 year-2020">
+          
+            
+
+<div class="pub-list-item" style="margin-bottom: 1rem">
+  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
+
+  
+  
+
+  <span class="article-metadata li-cite-author">
+    
+
+  <span >
+      <a href="/author/clarissa-campbell/">Clarissa Campbell</a></span>, <span >
+      <a href="/author/francois-marchildon/">Francois Marchildon</a></span>, <span >
+      <a href="/author/anthony-j.-michaels/">Anthony J. Michaels</a></span>, <span >
+      <a href="/author/naofumi-takemoto/">Naofumi Takemoto</a></span>, <span >
+      <a href="/author/joris-van-der-veeken/">Joris van der Veeken</a></span>, <span >
+      <a href="/author/michail-schizas/">Michail Schizas</a></span>, <span >
+      <a href="/author/yuri-pritykin/">Yuri Pritykin</a></span>, <span >
+      <a href="/author/christina-s.-leslie/">Christina S. Leslie</a></span>, <span >
+      <a href="/author/andrew-m.-intlekofer/">Andrew M. Intlekofer</a></span>, <span >
+      <a href="/author/paul-cohen/">Paul Cohen</a></span>, <span >
+      <a href="/author/alexander-y.-rudensky/">Alexander Y. Rudensky</a></span>
+  </span>
+  (2020).
+  <a href="/publication/2020-pnas-fxr/">FXR mediates T cell-intrinsic responses to reduced feeding during infection</a>.
+  <em>Proceedings of the National Academy of Sciences</em>.
+  
+  <p>
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="/files/2020-pnas-fxr.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1073/pnas.2020619117" target="_blank" rel="noopener">
   DOI
 </a>
 
@@ -1019,6 +1254,22 @@
   DOI
 </a>
 
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header btn-sm" href="https://doi.org/10.1101/820548" target="_blank" rel="noopener">
+    
+    bioRxiv
+  </a>
 
 </p>
 

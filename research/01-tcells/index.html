@@ -30,7 +30,7 @@
   
     
   
-  <meta name="description" content="CD8 T cells form the central component of adaptive immune system and are essential in defense against viral and bacterial infections and in tumor immunity. Better molecular characterization of CD8 T cells in different contexts is fundamentally important and can lead to improved clinical results in cancer immunotherapies, infectious diseases, autoimmunity. We performed an extensive genomic, single-cell, and transcription factor analysis of CD8 T cell functional and dysfunctional states. We now continue studying regulatory mechanisms and cell-cell interactions governing CD8 T cell activation and functional commitment across immune challenges using single-cell multi-omics." />
+  <meta name="description" content="CD8 T cells form the central component of adaptive immune system and are essential in defense against viral and bacterial infections and in tumor immunity. Better molecular characterization of CD8 T cells in different contexts is fundamentally important and can lead to improved clinical results in cancer immunotherapies, infectious diseases, autoimmunity. We performed an extensive genomic, single-cell, and transcription factor analysis of CD8 T cell functional and dysfunctional states. We now continue studying regulatory mechanisms and cell-cell interactions governing CD8 T cell activation and functional commitment across immune challenges using single-cell and spatial multi-omics." />
 
   
   <link rel="alternate" hreflang="en-us" href="https://pritykinlab.github.io/research/01-tcells/" />
@@ -237,6 +237,45 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-YT39VMNKQ8"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-YT39VMNKQ8', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
   
@@ -277,7 +316,7 @@
   <meta property="og:site_name" content="Pritykin Lab" />
   <meta property="og:url" content="https://pritykinlab.github.io/research/01-tcells/" />
   <meta property="og:title" content=" | Pritykin Lab" />
-  <meta property="og:description" content="CD8 T cells form the central component of adaptive immune system and are essential in defense against viral and bacterial infections and in tumor immunity. Better molecular characterization of CD8 T cells in different contexts is fundamentally important and can lead to improved clinical results in cancer immunotherapies, infectious diseases, autoimmunity. We performed an extensive genomic, single-cell, and transcription factor analysis of CD8 T cell functional and dysfunctional states. We now continue studying regulatory mechanisms and cell-cell interactions governing CD8 T cell activation and functional commitment across immune challenges using single-cell multi-omics." /><meta property="og:image" content="https://pritykinlab.github.io/research/01-tcells/featured.png" />
+  <meta property="og:description" content="CD8 T cells form the central component of adaptive immune system and are essential in defense against viral and bacterial infections and in tumor immunity. Better molecular characterization of CD8 T cells in different contexts is fundamentally important and can lead to improved clinical results in cancer immunotherapies, infectious diseases, autoimmunity. We performed an extensive genomic, single-cell, and transcription factor analysis of CD8 T cell functional and dysfunctional states. We now continue studying regulatory mechanisms and cell-cell interactions governing CD8 T cell activation and functional commitment across immune challenges using single-cell and spatial multi-omics." /><meta property="og:image" content="https://pritykinlab.github.io/research/01-tcells/featured.png" />
     <meta property="twitter:image" content="https://pritykinlab.github.io/research/01-tcells/featured.png" /><meta property="og:locale" content="en-us" />
   
     
@@ -748,7 +787,7 @@
   <div class="article-container">
 
     <div class="article-style">
-      <p>CD8 T cells form the central component of adaptive immune system and are essential in defense against viral and bacterial infections and in tumor immunity. Better molecular characterization of CD8 T cells in different contexts is fundamentally important and can lead to improved clinical results in cancer immunotherapies, infectious diseases, autoimmunity. We performed an extensive genomic, single-cell, and transcription factor <a href="publication/2020-cd8t/index.html">analysis</a> of CD8 T cell functional and dysfunctional states. We now continue studying regulatory mechanisms and cell-cell interactions governing CD8 T cell activation and functional commitment across immune challenges using single-cell multi-omics.</p>
+      <p>CD8 T cells form the central component of adaptive immune system and are essential in defense against viral and bacterial infections and in tumor immunity. Better molecular characterization of CD8 T cells in different contexts is fundamentally important and can lead to improved clinical results in cancer immunotherapies, infectious diseases, autoimmunity. We performed an extensive genomic, single-cell, and transcription factor <a href="publication/2021-cd8t/index.html">analysis</a> of CD8 T cell functional and dysfunctional states. We now continue studying regulatory mechanisms and cell-cell interactions governing CD8 T cell activation and functional commitment across immune challenges using single-cell and spatial multi-omics.</p>
     </div>
 
     

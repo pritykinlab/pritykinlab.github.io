@@ -5,7 +5,7 @@
     <link>https://pritykinlab.github.io/author/yuri-pritykin/</link>
       <atom:link href="https://pritykinlab.github.io/author/yuri-pritykin/index.xml" rel="self" type="application/rss+xml" />
     <description>Yuri Pritykin</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 22 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 15 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://pritykinlab.github.io/author/yuri-pritykin/avatar_huec0bfe217818550ceabba5e59bf9fbff_901831_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Yuri Pritykin</title>
@@ -13,10 +13,26 @@
     </image>
     
     <item>
+      <title>Ectopic activation of the miR-200c–EpCAM axis enhances antitumor T cell responses in models of adoptive cell therapy</title>
+      <link>https://pritykinlab.github.io/publication/2021-sci-transl-med-mir200/</link>
+      <pubDate>Wed, 15 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/publication/2021-sci-transl-med-mir200/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A unified atlas of CD8 T cell dysfunctional states in cancer and infection</title>
       <link>https://pritykinlab.github.io/publication/2021-cd8t/</link>
       <pubDate>Thu, 22 Apr 2021 00:00:00 +0000</pubDate>
       <guid>https://pritykinlab.github.io/publication/2021-cd8t/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FXR mediates T cell-intrinsic responses to reduced feeding during infection</title>
+      <link>https://pritykinlab.github.io/publication/2020-pnas-fxr/</link>
+      <pubDate>Tue, 29 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/publication/2020-pnas-fxr/</guid>
       <description></description>
     </item>
     

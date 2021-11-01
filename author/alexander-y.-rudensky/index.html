@@ -237,6 +237,45 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-YT39VMNKQ8"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'G-YT39VMNKQ8', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
   
@@ -284,7 +323,7 @@
     <meta property="twitter:image" content="https://pritykinlab.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
   
     
-      <meta property="og:updated_time" content="2019-02-01T00:00:00&#43;00:00" />
+      <meta property="og:updated_time" content="2020-12-29T00:00:00&#43;00:00" />
     
   
 
@@ -676,6 +715,10 @@
     <div class="article-widget content-widget-hr">
       <h3>Latest</h3>
       <ul>
+        
+        <li>
+          <a href="/publication/2020-pnas-fxr/">FXR mediates T cell-intrinsic responses to reduced feeding during infection</a>
+        </li>
         
         <li>
           <a href="/publication/2019-nat-immunol-foxp-1-foxp-3-treg/">Transcription factor Foxp1 regulates Foxp3 chromatin binding and coordinates regulatory T cell function</a>

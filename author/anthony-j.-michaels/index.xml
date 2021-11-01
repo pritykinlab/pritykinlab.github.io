@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anthony J. Michaels | Pritykin Lab</title>
+    <link>https://pritykinlab.github.io/author/anthony-j.-michaels/</link>
+      <atom:link href="https://pritykinlab.github.io/author/anthony-j.-michaels/index.xml" rel="self" type="application/rss+xml" />
+    <description>Anthony J. Michaels</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 29 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pritykinlab.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Anthony J. Michaels</title>
+      <link>https://pritykinlab.github.io/author/anthony-j.-michaels/</link>
+    </image>
+    
+    <item>
+      <title>FXR mediates T cell-intrinsic responses to reduced feeding during infection</title>
+      <link>https://pritykinlab.github.io/publication/2020-pnas-fxr/</link>
+      <pubDate>Tue, 29 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/publication/2020-pnas-fxr/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
