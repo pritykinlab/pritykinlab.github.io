@@ -5,12 +5,20 @@
     <link>https://pritykinlab.github.io/author/yuri-pritykin/</link>
       <atom:link href="https://pritykinlab.github.io/author/yuri-pritykin/index.xml" rel="self" type="application/rss+xml" />
     <description>Yuri Pritykin</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 15 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 30 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://pritykinlab.github.io/author/yuri-pritykin/avatar_huec0bfe217818550ceabba5e59bf9fbff_901831_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Yuri Pritykin</title>
       <link>https://pritykinlab.github.io/author/yuri-pritykin/</link>
     </image>
+    
+    <item>
+      <title>Hierarchical regulation of the resting and activated T cell epigenome by major transcription factor families</title>
+      <link>https://pritykinlab.github.io/publication/2022-t-cell-tfs/</link>
+      <pubDate>Thu, 30 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/publication/2022-t-cell-tfs/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Ectopic activation of the miR-200c–EpCAM axis enhances antitumor T cell responses in models of adoptive cell therapy</title>
