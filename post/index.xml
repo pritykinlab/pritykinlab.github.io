@@ -5,12 +5,28 @@
     <link>https://pritykinlab.github.io/post/</link>
       <atom:link href="https://pritykinlab.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>News</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 27 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://pritykinlab.github.io/media/icon_hu319984673dac842ac8ba1aa7906c04f1_1673_512x512_fill_lanczos_center_3.png</url>
       <title>News</title>
       <link>https://pritykinlab.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>Congratulations to Amanda, Gabe and Sarah on passing their general exam</title>
+      <link>https://pritykinlab.github.io/post/2022-01-27-generals/</link>
+      <pubDate>Thu, 27 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/post/2022-01-27-generals/</guid>
+      <description>&lt;p&gt;Our QCB students Amanda Sun, Gabe Dolsten and Sarah Walker successfully passed their general (qualifying) exam. Congratulations!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Pritykin lab receives funding from the Ludwig Princeton Branch</title>
+      <link>https://pritykinlab.github.io/post/2022-01-01-ludwig/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/post/2022-01-01-ludwig/</guid>
+      <description>&lt;p&gt;Pritykin lab receives funding from the &lt;a href=&#34;https://www.ludwigcancerresearch.org/location/princeton/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Princeton Branch of the Ludwig Institute for Cancer Research&lt;/a&gt; to work on metabolic analysis in T cells via computational genomics.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>New Pritykin Lab website is launched</title>
