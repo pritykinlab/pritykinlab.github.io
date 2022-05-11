@@ -23,14 +23,14 @@
   
   
 
-  <meta name="author" content="Nelson Bighetti" />
+  <meta name="author" content="Yuri Pritykin" />
 
   
   
   
     
   
-  <meta name="description" content="My research group description." />
+  <meta name="description" content="Pritykin Lab at Lewis-Sigler Institute for Integrative Genomics and Computer Science Department at Princeton University." />
 
   
   <link rel="alternate" hreflang="en-us" href="https://pritykinlab.github.io/publication-type/3/" />
@@ -54,7 +54,7 @@
   
   
   
-    <meta name="theme-color" content="#1565c0" />
+    <meta name="theme-color" content="#3f51b5" />
   
 
   
@@ -231,35 +231,74 @@
   
   
   
-  <link rel="stylesheet" href="/css/wowchemy.a53ee215eb6dcadd1a125dc8098e4c3e.css" />
-
-  
-
-
-
-  
-
-  
+  <link rel="stylesheet" href="/css/wowchemy.f39d388d66890b85c6a2848a42ecf9e1.css" />
 
   
 
 
 
 
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-138603211-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-138603211-2', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
+  
+
+  
+
+  
+
+
+
+
   
   
   
 
   
-    <link rel="alternate" href="/publication-type/3/index.xml" type="application/rss+xml" title="Wowchemy Research Group" />
+    <link rel="alternate" href="/publication-type/3/index.xml" type="application/rss+xml" title="Pritykin Lab" />
   
 
   
     <link rel="manifest" href="/index.webmanifest" />
   
 
-  <link rel="icon" type="image/png" href="/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_32x32_fill_lanczos_center_3.png" />
-  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_180x180_fill_lanczos_center_3.png" />
+  <link rel="icon" type="image/png" href="/media/icon_hu319984673dac842ac8ba1aa7906c04f1_1673_32x32_fill_lanczos_center_3.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu319984673dac842ac8ba1aa7906c04f1_1673_180x180_fill_lanczos_center_3.png" />
 
   <link rel="canonical" href="https://pritykinlab.github.io/publication-type/3/" />
 
@@ -277,14 +316,14 @@
   
   <meta property="twitter:card" content="summary" />
   
-  <meta property="og:site_name" content="Wowchemy Research Group" />
+  <meta property="og:site_name" content="Pritykin Lab" />
   <meta property="og:url" content="https://pritykinlab.github.io/publication-type/3/" />
-  <meta property="og:title" content="3 | Wowchemy Research Group" />
-  <meta property="og:description" content="My research group description." /><meta property="og:image" content="https://pritykinlab.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png" />
-    <meta property="twitter:image" content="https://pritykinlab.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
+  <meta property="og:title" content="3 | Pritykin Lab" />
+  <meta property="og:description" content="Pritykin Lab at Lewis-Sigler Institute for Integrative Genomics and Computer Science Department at Princeton University." /><meta property="og:image" content="https://pritykinlab.github.io/media/icon_hu319984673dac842ac8ba1aa7906c04f1_1673_512x512_fill_lanczos_center_3.png" />
+    <meta property="twitter:image" content="https://pritykinlab.github.io/media/icon_hu319984673dac842ac8ba1aa7906c04f1_1673_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
   
     
-      <meta property="og:updated_time" content="2019-04-07T00:00:00&#43;00:00" />
+      <meta property="og:updated_time" content="2022-05-03T00:00:00&#43;00:00" />
     
   
 
@@ -300,7 +339,7 @@
 
 
 
-  <title>3 | Wowchemy Research Group</title>
+  <title>3 | Pritykin Lab</title>
 </head>
 
 
@@ -319,43 +358,6 @@
 
   
 
-
-<aside class="search-modal" id="search">
-  <div class="container">
-    <section class="search-header">
-
-      <div class="row no-gutters justify-content-between mb-3">
-        <div class="col-6">
-          <h1>Search</h1>
-        </div>
-        <div class="col-6 col-search-close">
-          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
-        </div>
-      </div>
-
-      <div id="search-box">
-        
-        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
-        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
-        aria-label="Search...">
-        
-      </div>
-
-      
-      
-
-      
-
-    </section>
-    <section class="section-search-results">
-
-      <div id="search-hits">
-        
-      </div>
-
-    </section>
-  </div>
-</aside>
 
 
 
@@ -378,7 +380,7 @@
 
     
     <div class="d-none d-lg-inline-flex">
-      <a class="navbar-brand" href="/">Wowchemy Research Group</a>
+      <a class="navbar-brand" href="/">Pritykin Lab</a>
     </div>
     
 
@@ -391,7 +393,7 @@
 
     
     <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
-      <a class="navbar-brand" href="/">Wowchemy Research Group</a>
+      <a class="navbar-brand" href="/">Pritykin Lab</a>
     </div>
     
 
@@ -408,6 +410,8 @@
         
         
         
+          
+        
 
         
 
@@ -421,11 +425,18 @@
             
             
           
+          
+            
+            
+            
+              
+            
+            
           
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/post"><span>News</span></a>
+          <a class="nav-link " href="/#research"><span>Research</span></a>
         </li>
 
         
@@ -452,10 +463,17 @@
             
           
           
+            
+            
+            
+              
+            
+            
+          
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/people"><span>People</span></a>
+          <a class="nav-link " href="/#news"><span>News</span></a>
         </li>
 
         
@@ -482,10 +500,17 @@
             
           
           
+            
+            
+            
+              
+            
+            
+          
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/event"><span>Events</span></a>
+          <a class="nav-link " href="/#people"><span>People</span></a>
         </li>
 
         
@@ -512,10 +537,17 @@
             
           
           
+            
+            
+            
+              
+            
+            
+          
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/publication"><span>Publications</span></a>
+          <a class="nav-link " href="/#featured"><span>Publications</span></a>
         </li>
 
         
@@ -542,10 +574,91 @@
             
           
           
+            
+            
+            
+              
+            
+            
+          
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/contact"><span>Contact</span></a>
+          <a class="nav-link " href="/#teaching"><span>Teaching</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#jobs"><span>Join us</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#contact"><span>Contact</span></a>
         </li>
 
         
@@ -565,10 +678,6 @@
       
 
       
-      
-      <li class="nav-item">
-        <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
-      </li>
       
 
       
@@ -625,10 +734,10 @@
     
     
     <div>
-      <h2><a href="/publication/preprint/" >An example preprint / working paper</a></h2>
+      <h2><a href="/publication/2022-guidescan2/" >Genome-wide CRISPR guide RNA design and specificity analysis with GuideScan2</a></h2>
       <div class="article-style">
         
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+          We present GuideScan2 for memory-efficient, parallelizable construction of high-specificity CRISPR guide RNA (gRNA) databases and user-friendly gRNA/library design in custom genomes. GuideScan2 analysis identified widespread confounding effects of …
         
       </div>
     </div>
@@ -739,23 +848,6 @@
     
     
     
-      
-      <script id="search-hit-fuse-template" type="text/x-template">
-        <div class="search-hit" id="summary-{{key}}">
-          <div class="search-hit-content">
-            <div class="search-hit-name">
-              <a href="{{relpermalink}}">{{title}}</a>
-              <div class="article-metadata search-hit-type">{{type}}</div>
-              <p class="search-hit-description">{{snippet}}</p>
-            </div>
-          </div>
-        </div>
-      </script>
-      
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/fuse.js/3.2.1/fuse.min.js" integrity="sha256-VzgmKYmhsGNNN4Ph1kMW+BjoYJM2jV5i4IlFoeZA9XI=" crossorigin="anonymous"></script>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/jquery.mark.min.js" integrity="sha256-4HLtjeVgH0eIB3aZ9mLYF6E8oU5chNdjU6p6rrXpl9U=" crossorigin="anonymous"></script>
-      
-    
 
     
     
@@ -770,14 +862,6 @@
 
     
     
-      
-      
-      
-      
-      
-      
-      
-    
 
     
     
@@ -787,11 +871,8 @@
     
     
     
-      
-      
     
-    
-    <script src="/en/js/wowchemy.min.fb8eb32a4d207f5f18023712a904b210.js"></script>
+    <script src="/en/js/wowchemy.min.0d73d39836744f4433ae9aed115721e7.js"></script>
 
     
 
