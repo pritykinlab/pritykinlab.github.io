@@ -5,12 +5,20 @@
     <link>https://pritykinlab.github.io/author/joris-van-der-veeken/</link>
       <atom:link href="https://pritykinlab.github.io/author/joris-van-der-veeken/index.xml" rel="self" type="application/rss+xml" />
     <description>Joris van der Veeken</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 30 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 12 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://pritykinlab.github.io/media/icon_hu319984673dac842ac8ba1aa7906c04f1_1673_512x512_fill_lanczos_center_3.png</url>
       <title>Joris van der Veeken</title>
       <link>https://pritykinlab.github.io/author/joris-van-der-veeken/</link>
     </image>
+    
+    <item>
+      <title>Genetic tracing reveals transcription factor Foxp3-dependent and Foxp3-independent functionality of peripherally induced Treg cells</title>
+      <link>https://pritykinlab.github.io/publication/2022-ptreg/</link>
+      <pubDate>Tue, 12 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/publication/2022-ptreg/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Hierarchical regulation of the resting and activated T cell epigenome by major transcription factor families</title>

@@ -5,12 +5,28 @@
     <link>https://pritykinlab.github.io/publication/</link>
       <atom:link href="https://pritykinlab.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 03 May 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 12 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://pritykinlab.github.io/media/icon_hu319984673dac842ac8ba1aa7906c04f1_1673_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://pritykinlab.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Genetic tracing reveals transcription factor Foxp3-dependent and Foxp3-independent functionality of peripherally induced Treg cells</title>
+      <link>https://pritykinlab.github.io/publication/2022-ptreg/</link>
+      <pubDate>Tue, 12 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/publication/2022-ptreg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Terminal differentiation and persistence of effector regulatory T cells essential for the prevention of intestinal inflammation</title>
+      <link>https://pritykinlab.github.io/publication/2022-treg-il10/</link>
+      <pubDate>Mon, 16 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/publication/2022-treg-il10/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Genome-wide CRISPR guide RNA design and specificity analysis with GuideScan2</title>

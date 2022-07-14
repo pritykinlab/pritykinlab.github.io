@@ -5,12 +5,20 @@
     <link>https://pritykinlab.github.io/author/christina-s.-leslie/</link>
       <atom:link href="https://pritykinlab.github.io/author/christina-s.-leslie/index.xml" rel="self" type="application/rss+xml" />
     <description>Christina S. Leslie</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 03 May 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 16 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://pritykinlab.github.io/media/icon_hu319984673dac842ac8ba1aa7906c04f1_1673_512x512_fill_lanczos_center_3.png</url>
       <title>Christina S. Leslie</title>
       <link>https://pritykinlab.github.io/author/christina-s.-leslie/</link>
     </image>
+    
+    <item>
+      <title>Terminal differentiation and persistence of effector regulatory T cells essential for the prevention of intestinal inflammation</title>
+      <link>https://pritykinlab.github.io/publication/2022-treg-il10/</link>
+      <pubDate>Mon, 16 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/publication/2022-treg-il10/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Genome-wide CRISPR guide RNA design and specificity analysis with GuideScan2</title>
