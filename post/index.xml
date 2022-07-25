@@ -5,12 +5,28 @@
     <link>https://pritykinlab.github.io/post/</link>
       <atom:link href="https://pritykinlab.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>News</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 11 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 19 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://pritykinlab.github.io/media/icon_hu319984673dac842ac8ba1aa7906c04f1_1673_512x512_fill_lanczos_center_3.png</url>
       <title>News</title>
       <link>https://pritykinlab.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>Yuri receives NIAID DP2 New Innovator Award!</title>
+      <link>https://pritykinlab.github.io/post/2022-07-19-dp2/</link>
+      <pubDate>Tue, 19 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/post/2022-07-19-dp2/</guid>
+      <description>&lt;p&gt;Yuri receives the &lt;a href=&#34;https://reporter.nih.gov/project-details/10507476&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DP2 New Innovator Award&lt;/a&gt; from the National Institute of Allergy and Infectious Diseases! We will use these funds to continue studying regulatory genomics of T cells in mouse and human across contexts in a data-driven manner.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Yuri participates in the Irving Cancer Immunology Symposium in Boston</title>
+      <link>https://pritykinlab.github.io/post/2022-07-18-cancer-immune/</link>
+      <pubDate>Mon, 18 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/post/2022-07-18-cancer-immune/</guid>
+      <description>&lt;p&gt;Yuri participates in the second annual &lt;a href=&#34;https://irvingcancerimmunologysymposium.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Arthur and Sandra Irving Cancer Immunology Symposium&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Yuri organized Special session on computational immunology at ISMB 2022</title>
