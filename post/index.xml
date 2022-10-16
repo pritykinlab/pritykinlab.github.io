@@ -5,12 +5,28 @@
     <link>https://pritykinlab.github.io/post/</link>
       <atom:link href="https://pritykinlab.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>News</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 19 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://pritykinlab.github.io/media/icon_hu319984673dac842ac8ba1aa7906c04f1_1673_512x512_fill_lanczos_center_3.png</url>
       <title>News</title>
       <link>https://pritykinlab.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>Research software engineer Vineet Bansal will work with the lab</title>
+      <link>https://pritykinlab.github.io/post/2022-09-01-bansal/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/post/2022-09-01-bansal/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://csml.princeton.edu/people/vineet-bansal&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Vineet Bansal&lt;/a&gt; is a Senior Research Software Engineer at the &lt;a href=&#34;https://csml.princeton.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Center for Statistics and Machine Learning&lt;/a&gt;. He will contribute to a number of projects in the lab.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Dimitar Chakarov joins the lab as an undergraduate researcher</title>
+      <link>https://pritykinlab.github.io/post/2022-07-27-chakarov/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/post/2022-07-27-chakarov/</guid>
+      <description>&lt;p&gt;We are happy to welcome an undergraduate student &lt;a href=&#34;https://dimitarch.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dimitar Chakarov&lt;/a&gt; pursuing math and computer science studies at Princeton. He will join us as an Undergraduate Research Asssistant.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Yuri receives NIAID DP2 New Innovator Award!</title>
