@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lazaros Lataniotis | Pritykin Lab</title>
+    <link>https://pritykinlab.github.io/author/lazaros-lataniotis/</link>
+      <atom:link href="https://pritykinlab.github.io/author/lazaros-lataniotis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lazaros Lataniotis</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 21 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pritykinlab.github.io/media/icon_hu319984673dac842ac8ba1aa7906c04f1_1673_512x512_fill_lanczos_center_3.png</url>
+      <title>Lazaros Lataniotis</title>
+      <link>https://pritykinlab.github.io/author/lazaros-lataniotis/</link>
+    </image>
+    
+    <item>
+      <title>Multi-center integrated analysis of non-coding CRISPR screens</title>
+      <link>https://pritykinlab.github.io/publication/2022-multicenter-crispr/</link>
+      <pubDate>Wed, 21 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/publication/2022-multicenter-crispr/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

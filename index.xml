@@ -5,12 +5,28 @@
     <link>https://pritykinlab.github.io/</link>
       <atom:link href="https://pritykinlab.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Pritykin Lab</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 16 Mar 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://pritykinlab.github.io/media/icon_hu319984673dac842ac8ba1aa7906c04f1_1673_512x512_fill_lanczos_center_3.png</url>
       <title>Pritykin Lab</title>
       <link>https://pritykinlab.github.io/</link>
     </image>
+    
+    <item>
+      <title>Universal recording of cell-cell contacts in vivo for interaction-based transcriptomics</title>
+      <link>https://pritykinlab.github.io/publication/2023-ulipstic/</link>
+      <pubDate>Thu, 16 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/publication/2023-ulipstic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yuri receives NSF CAREER Award!</title>
+      <link>https://pritykinlab.github.io/post/2023-03-08-nsf-career/</link>
+      <pubDate>Wed, 08 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/post/2023-03-08-nsf-career/</guid>
+      <description>&lt;p&gt;Yuri receives the &lt;a href=&#34;https://www.nsf.gov/awardsearch/showAward?AWD_ID=2238831&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CAREER Award&lt;/a&gt; from National Science Foundation! The funds will be used to continue our development and application of computational methods for CRISPR experimental design and analysis.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Two CS students, Dillon Lue and Tamjeed Azad, join the lab</title>
@@ -26,6 +42,14 @@
       <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://pritykinlab.github.io/post/2023-01-09-adina/</guid>
       <description>&lt;p&gt;Welcome Adina!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Multi-center integrated analysis of non-coding CRISPR screens</title>
+      <link>https://pritykinlab.github.io/publication/2022-multicenter-crispr/</link>
+      <pubDate>Wed, 21 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/publication/2022-multicenter-crispr/</guid>
+      <description></description>
     </item>
     
     <item>
