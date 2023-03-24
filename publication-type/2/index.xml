@@ -5,12 +5,20 @@
     <link>https://pritykinlab.github.io/publication-type/2/</link>
       <atom:link href="https://pritykinlab.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 12 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://pritykinlab.github.io/media/icon_hu319984673dac842ac8ba1aa7906c04f1_1673_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
       <link>https://pritykinlab.github.io/publication-type/2/</link>
     </image>
+    
+    <item>
+      <title>Genomic Analysis of Foxp3 Function in Regulatory T Cells</title>
+      <link>https://pritykinlab.github.io/publication/2023-foxp3-review/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/publication/2023-foxp3-review/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Genetic tracing reveals transcription factor Foxp3-dependent and Foxp3-independent functionality of peripherally induced Treg cells</title>

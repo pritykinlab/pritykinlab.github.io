@@ -5,12 +5,20 @@
     <link>https://pritykinlab.github.io/author/gabriel-dolsten/</link>
       <atom:link href="https://pritykinlab.github.io/author/gabriel-dolsten/index.xml" rel="self" type="application/rss+xml" />
     <description>Gabriel Dolsten</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://pritykinlab.github.io/author/gabriel-dolsten/avatar_hud089525fa90628ffdf7dfa2e88bae530_710610_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://pritykinlab.github.io/media/icon_hu319984673dac842ac8ba1aa7906c04f1_1673_512x512_fill_lanczos_center_3.png</url>
       <title>Gabriel Dolsten</title>
       <link>https://pritykinlab.github.io/author/gabriel-dolsten/</link>
     </image>
+    
+    <item>
+      <title>Genomic Analysis of Foxp3 Function in Regulatory T Cells</title>
+      <link>https://pritykinlab.github.io/publication/2023-foxp3-review/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/publication/2023-foxp3-review/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
