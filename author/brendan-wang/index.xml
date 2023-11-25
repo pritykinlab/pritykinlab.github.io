@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Brendan Wang | Pritykin Lab</title>
+    <link>https://pritykinlab.github.io/author/brendan-wang/</link>
+      <atom:link href="https://pritykinlab.github.io/author/brendan-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Brendan Wang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://pritykinlab.github.io/author/brendan-wang/avatar_hu9abbfada6b75a5cd82c9003161c90d67_355559_270x270_fill_q75_lanczos_center.JPG</url>
+      <title>Brendan Wang</title>
+      <link>https://pritykinlab.github.io/author/brendan-wang/</link>
+    </image>
+    
+  </channel>
+</rss>
