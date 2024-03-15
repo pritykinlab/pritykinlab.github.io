@@ -1,0 +1,1349 @@
+<!DOCTYPE html><html lang="en-us" >
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Wowchemy 5.2.0 for Hugo" />
+  
+
+  
+
+  
+  
+  
+  
+  
+    
+    
+    
+  
+  
+
+  <meta name="author" content="Yuri Pritykin" />
+
+  
+  
+  
+    
+  
+  <meta name="description" content=" Immune cells rely on transient physical interactions with other immune and non-immune populations to regulate their function. To study these ‘kiss-and-run’ interactions directly in vivo, we previously developed LIPSTIC (labelling immune partnerships by SorTagging intercellular contacts), an approach that uses enzymatic transfer of a labelled substrate between the molecular partners CD40L and CD40 to label interacting cells. Reliance on this pathway limited the use of LIPSTIC to measuring interactions between CD4&#43; T helper cells and antigen-presenting cells, however. Here we report the development of a universal version of LIPSTIC (uLIPSTIC), which can record physical interactions both among immune cells and between immune and non-immune populations irrespective of the receptors and ligands involved. We show that uLIPSTIC can be used, among other things, to monitor the priming of CD8&#43; T cells by dendritic cells, reveal the steady-state cellular partners of regulatory T cells and identify germinal centre-resident T follicular helper cells on the basis of their ability to interact cognately with germinal centre B cells. By coupling uLIPSTIC with single-cell transcriptomics, we build a catalogue of the immune populations that physically interact with intestinal epithelial cells at the steady state and profile the evolution of the interactome of lymphocytic choriomeningitis virus-specific CD8&#43; T cells in multiple organs following systemic infection. Thus, uLIPSTIC provides a broadly useful technology for measuring and understanding cell–cell interactions across multiple biological systems." />
+
+  
+  <link rel="alternate" hreflang="en-us" href="https://pritykinlab.github.io/publication/2024-ulipstic/" />
+
+  
+
+
+
+
+
+
+
+  
+
+
+
+
+  
+  
+
+  
+  
+  
+    <meta name="theme-color" content="#3f51b5" />
+  
+
+  
+  
+
+  
+  
+  
+  
+    
+    
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.0/css/academicons.min.css" integrity="sha512-W4yqoT1+8NLkinBLBZko+dFB2ZbHsYLDdr50VElllRcNt2Q4/GSs6u71UHKxB7S6JEMCp5Ve4xjh3eGQl/HRvg==" crossorigin="anonymous">
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css" integrity="sha256-FMvZuGapsJLjouA6k7Eo2lusoAX9i0ShlWFG6qt7SLc=" crossorigin="anonymous">
+
+    
+    
+
+    
+    
+    
+      
+    
+    
+
+    
+    
+    
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.min.css" integrity="sha512-1xoFisiGdy9nvho8EgXuXvnpR5GAMSjFwp40gSRE3NwdUdIMIKuPa7bqoUhLD0O/5tPNhteAsE5XyyMi5reQVA==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+        
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/wowchemy.f39d388d66890b85c6a2848a42ecf9e1.css" />
+
+  
+
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-138603211-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url, target) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           if (target !== '_blank') {
+             document.location = url;
+           }
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target, event.target.getAttribute('target'));  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-138603211-2', {});
+  gtag('set', {'cookie_flags': 'SameSite=None;Secure'});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
+  
+
+  
+
+  
+
+
+
+
+  
+  
+  
+
+  
+
+  
+    <link rel="manifest" href="/index.webmanifest" />
+  
+
+  <link rel="icon" type="image/png" href="/media/icon_hu319984673dac842ac8ba1aa7906c04f1_1673_32x32_fill_lanczos_center_3.png" />
+  <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu319984673dac842ac8ba1aa7906c04f1_1673_180x180_fill_lanczos_center_3.png" />
+
+  <link rel="canonical" href="https://pritykinlab.github.io/publication/2024-ulipstic/" />
+
+  
+  
+  
+  
+  
+  
+  
+  
+    
+    
+  
+  
+  <meta property="twitter:card" content="summary" />
+  
+  <meta property="og:site_name" content="Pritykin Lab" />
+  <meta property="og:url" content="https://pritykinlab.github.io/publication/2024-ulipstic/" />
+  <meta property="og:title" content="Universal recording of immune cell interactions in vivo | Pritykin Lab" />
+  <meta property="og:description" content=" Immune cells rely on transient physical interactions with other immune and non-immune populations to regulate their function. To study these ‘kiss-and-run’ interactions directly in vivo, we previously developed LIPSTIC (labelling immune partnerships by SorTagging intercellular contacts), an approach that uses enzymatic transfer of a labelled substrate between the molecular partners CD40L and CD40 to label interacting cells. Reliance on this pathway limited the use of LIPSTIC to measuring interactions between CD4&#43; T helper cells and antigen-presenting cells, however. Here we report the development of a universal version of LIPSTIC (uLIPSTIC), which can record physical interactions both among immune cells and between immune and non-immune populations irrespective of the receptors and ligands involved. We show that uLIPSTIC can be used, among other things, to monitor the priming of CD8&#43; T cells by dendritic cells, reveal the steady-state cellular partners of regulatory T cells and identify germinal centre-resident T follicular helper cells on the basis of their ability to interact cognately with germinal centre B cells. By coupling uLIPSTIC with single-cell transcriptomics, we build a catalogue of the immune populations that physically interact with intestinal epithelial cells at the steady state and profile the evolution of the interactome of lymphocytic choriomeningitis virus-specific CD8&#43; T cells in multiple organs following systemic infection. Thus, uLIPSTIC provides a broadly useful technology for measuring and understanding cell–cell interactions across multiple biological systems." /><meta property="og:image" content="https://pritykinlab.github.io/media/icon_hu319984673dac842ac8ba1aa7906c04f1_1673_512x512_fill_lanczos_center_3.png" />
+    <meta property="twitter:image" content="https://pritykinlab.github.io/media/icon_hu319984673dac842ac8ba1aa7906c04f1_1673_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
+  
+    
+      <meta
+        property="article:published_time"
+        content="2023-03-06T00:00:00&#43;00:00"
+      />
+    
+    <meta property="article:modified_time" content="2024-03-15T00:00:00&#43;00:00">
+  
+
+  
+
+
+    
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://pritykinlab.github.io/publication/2024-ulipstic/"
+  },
+  "headline": "Universal recording of immune cell interactions in vivo",
+  
+  "datePublished": "2023-03-06T00:00:00Z",
+  "dateModified": "2024-03-15T00:00:00Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Sandra Nakandakari-Higa"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Pritykin Lab",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://pritykinlab.github.io/media/icon_hu319984673dac842ac8ba1aa7906c04f1_1673_192x192_fill_lanczos_center_3.png"
+    }
+  },
+  "description": " Immune cells rely on transient physical interactions with other immune and non-immune populations to regulate their function. To study these ‘kiss-and-run’ interactions directly in vivo, we previously developed LIPSTIC (labelling immune partnerships by SorTagging intercellular contacts), an approach that uses enzymatic transfer of a labelled substrate between the molecular partners CD40L and CD40 to label interacting cells. Reliance on this pathway limited the use of LIPSTIC to measuring interactions between CD4+ T helper cells and antigen-presenting cells, however. Here we report the development of a universal version of LIPSTIC (uLIPSTIC), which can record physical interactions both among immune cells and between immune and non-immune populations irrespective of the receptors and ligands involved. We show that uLIPSTIC can be used, among other things, to monitor the priming of CD8+ T cells by dendritic cells, reveal the steady-state cellular partners of regulatory T cells and identify germinal centre-resident T follicular helper cells on the basis of their ability to interact cognately with germinal centre B cells. By coupling uLIPSTIC with single-cell transcriptomics, we build a catalogue of the immune populations that physically interact with intestinal epithelial cells at the steady state and profile the evolution of the interactome of lymphocytic choriomeningitis virus-specific CD8+ T cells in multiple organs following systemic infection. Thus, uLIPSTIC provides a broadly useful technology for measuring and understanding cell–cell interactions across multiple biological systems."
+}
+</script>
+
+  
+
+  
+
+  
+
+  
+
+
+
+
+
+  <title>Universal recording of immune cell interactions in vivo | Pritykin Lab</title>
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="dbdd8c30e3ef51cb1482bb1800d19f2d" >
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/js/wowchemy-init.min.c2ae95842e5b33a787c7b8c567e989a4.js"></script>
+
+  
+
+
+
+
+  <div class="page-header">
+    
+
+
+
+
+
+
+
+
+
+
+
+
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+  <div class="container-xl">
+
+    
+    <div class="d-none d-lg-inline-flex">
+      <a class="navbar-brand" href="/">Pritykin Lab</a>
+    </div>
+    
+
+    
+    <button type="button" class="navbar-toggler" data-toggle="collapse"
+            data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="Toggle navigation">
+    <span><i class="fas fa-bars"></i></span>
+    </button>
+    
+
+    
+    <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+      <a class="navbar-brand" href="/">Pritykin Lab</a>
+    </div>
+    
+
+    
+    
+    <div class="navbar-collapse main-menu-item collapse justify-content-end" id="navbar-content">
+
+      
+      <ul class="navbar-nav d-md-inline-flex">
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#research"><span>Research</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#news"><span>News</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#people"><span>People</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#featured"><span>Publications</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#teaching"><span>Teaching</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#jobs"><span>Join us</span></a>
+        </li>
+
+        
+        
+
+        
+
+        
+        
+        
+          
+        
+
+        
+
+        
+        
+        
+        
+
+        
+          
+            
+            
+          
+          
+            
+            
+            
+              
+            
+            
+          
+        
+
+        <li class="nav-item">
+          <a class="nav-link " href="/#contact"><span>Contact</span></a>
+        </li>
+
+        
+        
+
+      
+
+        
+      </ul>
+    </div>
+
+    <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+      
+      
+        
+      
+
+      
+      
+
+      
+      
+
+      
+      
+
+    </ul>
+
+  </div>
+</nav>
+
+
+  </div>
+
+  <div class="page-body">
+    
+
+
+
+
+
+
+
+
+<div class="pub">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1>Universal recording of immune cell interactions in vivo</h1>
+
+  
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  <span >
+      <a href="/author/sandra-nakandakari-higa/">Sandra Nakandakari-Higa</a></span>, <span >
+      <a href="/author/sarah-walker/">Sarah Walker</a></span>, <span >
+      <a href="/author/maria-c.-c.-canesso/">Maria C. C. Canesso</a></span>, <span >
+      <a href="/author/verena-van-der-heide/"> Verena van der Heide</a></span>, <span >
+      <a href="/author/aleksey-chudnovskiy/">Aleksey Chudnovskiy</a></span>, <span >
+      <a href="/author/johanne-t-jacobsen/">Johanne T Jacobsen</a></span>, <span >
+      <a href="/author/roham-parsa/">Roham Parsa</a></span>, <span >
+      <a href="/author/jana-bilanovic/">Jana Bilanovic</a></span>, <span >
+      <a href="/author/s.-martina-parigi/">S. Martina Parigi</a></span>, <span >
+      <a href="/author/karol-fiedorczuk/">Karol Fiedorczuk</a></span>, <span >
+      <a href="/author/elaine-fuchs/">Elaine Fuchs</a></span>, <span >
+      <a href="/author/angelina-m-bilate/">Angelina M Bilate</a></span>, <span >
+      <a href="/author/giulia-pasqual/">Giulia Pasqual</a></span>, <span >
+      <a href="/author/daniel-mucida/">Daniel Mucida</a></span>, <span >
+      <a href="/author/alice-o.-kamphorst/">Alice O. Kamphorst</a></span>, <span >
+      <a href="/author/yuri-pritykin/">Yuri Pritykin</a></span><i class="author-notes fas fa-info-circle" data-toggle="tooltip" title="Corresponding author"></i>, <span >
+      <a href="/author/gabriel-d-victora/">Gabriel D Victora</a></span><i class="author-notes fas fa-info-circle" data-toggle="tooltip" title="Corresponding author"></i>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    March 2024
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+    
+
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary btn-page-header" href="/files/2024-ulipstic.pdf" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a class="btn btn-outline-primary btn-page-header" href="https://doi.org/https://doi.org/10.1038/s41586-024-07134-4" target="_blank" rel="noopener">
+  DOI
+</a>
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header" href="https://rdcu.be/dAv48" target="_blank" rel="noopener">
+    
+    rdcu
+  </a>
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary btn-page-header" href="https://doi.org/10.1101/2023.03.16.533003" target="_blank" rel="noopener">
+    
+    bioRxiv
+  </a>
+
+
+</div>
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    
+    <h3>Abstract</h3>
+    <p class="pub-abstract">Immune cells rely on transient physical interactions with other immune and non-immune populations to regulate their function. To study these ‘kiss-and-run’ interactions directly in vivo, we previously developed LIPSTIC (labelling immune partnerships by SorTagging intercellular contacts), an approach that uses enzymatic transfer of a labelled substrate between the molecular partners CD40L and CD40 to label interacting cells. Reliance on this pathway limited the use of LIPSTIC to measuring interactions between CD4+ T helper cells and antigen-presenting cells, however. Here we report the development of a universal version of LIPSTIC (uLIPSTIC), which can record physical interactions both among immune cells and between immune and non-immune populations irrespective of the receptors and ligands involved. We show that uLIPSTIC can be used, among other things, to monitor the priming of CD8+ T cells by dendritic cells, reveal the steady-state cellular partners of regulatory T cells and identify germinal centre-resident T follicular helper cells on the basis of their ability to interact cognately with germinal centre B cells. By coupling uLIPSTIC with single-cell transcriptomics, we build a catalogue of the immune populations that physically interact with intestinal epithelial cells at the steady state and profile the evolution of the interactome of lymphocytic choriomeningitis virus-specific CD8+ T cells in multiple organs following systemic infection. Thus, uLIPSTIC provides a broadly useful technology for measuring and understanding cell–cell interactions across multiple biological systems.</p>
+    
+
+    
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            <a href="/publication/#2">
+              Journal article
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
+          <div class="col-12 col-md-9"><em>Nature</em></div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style"></div>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+
+  
+    
+
+
+
+  
+  
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="/author/yuri-pritykin/"><img class="avatar mr-3 avatar-circle" src="/author/yuri-pritykin/avatar_hu9ac998ca819df1cd6990b15f23adac32_724603_270x270_fill_q75_lanczos_center.jpg" alt="Yuri Pritykin"></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="/author/yuri-pritykin/">Yuri Pritykin</a></h5>
+      <h6 class="card-subtitle">Assistant Professor of Computer Science and Genomics</h6>
+      
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:pritykin@princeton.edu" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.com/citations?hl=en&amp;user=Arx56RkJBrYC&amp;view_op=list_works&amp;sortby=pubdate" target="_blank" rel="noopener">
+        <i class="ai ai-google-scholar"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://twitter.com/YuriPritykin" target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.linkedin.com/in/yuri-pritykin-5b290993" target="_blank" rel="noopener">
+        <i class="fab fa-linkedin"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://orcid.org/0000-0001-6589-981X" target="_blank" rel="noopener">
+        <i class="ai ai-orcid"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
+  </div>
+
+
+  
+    
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  </div>
+</div>
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <footer class="site-footer">
+
+  
+
+  
+
+  
+
+  
+  
+
+
+
+
+
+
+  <p class="powered-by">
+    
+    
+    
+      
+      
+      
+      
+      
+      
+      Published with <a href="https://wowchemy.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Wowchemy</a> — the free, <a href="https://github.com/wowchemy/wowchemy-hugo-modules" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
+    
+  </p>
+</footer>
+
+    </div>
+    
+  </div>
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <pre><code class="tex hljs"></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+      
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/instant.page/5.1.0/instantpage.min.js" integrity="sha512-1+qUtKoh9XZW7j+6LhRMAyOrgSQKenQ4mluTR+cvxXjP1Z54RxZuzstR/H9kgPXQsVB8IW7DMDFUJpzLjvhGSQ==" crossorigin="anonymous"></script>
+
+      
+      
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.imagesloaded/4.1.4/imagesloaded.pkgd.min.js" integrity="sha256-lqvxZrPLtfffUl2G/e7szqSvPBILGbwmsGE1MKlOi0Q=" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.isotope/3.0.6/isotope.pkgd.min.js" integrity="sha256-CBrpuqrMhXwcLLUd5tvQ4euBHCdh7wGlDfNz8vbu/iI=" crossorigin="anonymous"></script>
+      
+
+      
+      
+
+      
+
+      
+
+    
+
+    
+    
+    
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/leaflet.min.js" integrity="sha512-SeiQaaDh73yrb56sTW/RgVdi/mMqNeM2oBwubFHagc5BkixSpP1fvqF47mKzPGWYSSy4RwbBunrJBQ4Co8fRWA==" crossorigin="anonymous"></script>
+    
+
+    
+    
+
+    
+    
+    
+
+    
+    
+
+    
+    
+    
+    
+
+    
+    <script src="/js/bootstrap.bundle.min.6aed84840afc03ab4d5750157f69c120.js"></script>
+
+    
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <script src="/en/js/wowchemy.min.0d73d39836744f4433ae9aed115721e7.js"></script>
+
+    
+
+
+
+
+
+
+</body>
+</html>

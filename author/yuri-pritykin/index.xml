@@ -5,7 +5,7 @@
     <link>https://pritykinlab.github.io/author/yuri-pritykin/</link>
       <atom:link href="https://pritykinlab.github.io/author/yuri-pritykin/index.xml" rel="self" type="application/rss+xml" />
     <description>Yuri Pritykin</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 15 Mar 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://pritykinlab.github.io/author/yuri-pritykin/avatar_hu9ac998ca819df1cd6990b15f23adac32_724603_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Yuri Pritykin</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Genomic Analysis of Foxp3 Function in Regulatory T Cells</title>
-      <link>https://pritykinlab.github.io/publication/2023-foxp3-review/</link>
-      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://pritykinlab.github.io/publication/2023-foxp3-review/</guid>
+      <title>Universal recording of immune cell interactions in vivo</title>
+      <link>https://pritykinlab.github.io/publication/2024-ulipstic/</link>
+      <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/publication/2024-ulipstic/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Universal recording of cell-cell contacts in vivo for interaction-based transcriptomics</title>
-      <link>https://pritykinlab.github.io/publication/2023-ulipstic/</link>
-      <pubDate>Thu, 16 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://pritykinlab.github.io/publication/2023-ulipstic/</guid>
+      <title>Genomic Analysis of Foxp3 Function in Regulatory T Cells</title>
+      <link>https://pritykinlab.github.io/publication/2023-foxp3-review/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/publication/2023-foxp3-review/</guid>
       <description></description>
     </item>
     

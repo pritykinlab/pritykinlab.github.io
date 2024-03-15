@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tim Kosfeld | Pritykin Lab</title>
+    <link>https://pritykinlab.github.io/author/tim-kosfeld/</link>
+      <atom:link href="https://pritykinlab.github.io/author/tim-kosfeld/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tim Kosfeld</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://pritykinlab.github.io/author/tim-kosfeld/avatar_hu01dac7bd4f5446de2b2b64ae27b08293_2001372_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Tim Kosfeld</title>
+      <link>https://pritykinlab.github.io/author/tim-kosfeld/</link>
+    </image>
+    
+  </channel>
+</rss>

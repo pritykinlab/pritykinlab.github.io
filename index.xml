@@ -5,7 +5,7 @@
     <link>https://pritykinlab.github.io/</link>
       <atom:link href="https://pritykinlab.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Pritykin Lab</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 15 Mar 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://pritykinlab.github.io/media/icon_hu319984673dac842ac8ba1aa7906c04f1_1673_512x512_fill_lanczos_center_3.png</url>
       <title>Pritykin Lab</title>
@@ -13,18 +13,51 @@
     </image>
     
     <item>
-      <title>Genomic Analysis of Foxp3 Function in Regulatory T Cells</title>
-      <link>https://pritykinlab.github.io/publication/2023-foxp3-review/</link>
-      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://pritykinlab.github.io/publication/2023-foxp3-review/</guid>
+      <title>Universal recording of immune cell interactions in vivo</title>
+      <link>https://pritykinlab.github.io/publication/2024-ulipstic/</link>
+      <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/publication/2024-ulipstic/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Universal recording of cell-cell contacts in vivo for interaction-based transcriptomics</title>
-      <link>https://pritykinlab.github.io/publication/2023-ulipstic/</link>
-      <pubDate>Thu, 16 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>https://pritykinlab.github.io/publication/2023-ulipstic/</guid>
+      <title>The uLIPSTIC paper is published in Nature!</title>
+      <link>https://pritykinlab.github.io/post/2024-03-07-ulipstic/</link>
+      <pubDate>Wed, 06 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/post/2024-03-07-ulipstic/</guid>
+      <description>&lt;p&gt;The &lt;a href=&#34;../../../publication/2024-ulipstic/index.html&#34;&gt;uLIPSTIC paper&lt;/a&gt; is published in &lt;a href=&#34;https://doi.org/10.1038/s41586-024-07134-4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nature&lt;/a&gt;, with Yuri as co-corresponding author! Exciting and fruitful collaboration with &lt;a href=&#34;https://www.germinal.center/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the lab of Gabriel Victora&lt;/a&gt; at Rockefeller University.
+Amazing computational biology by our PhD student Sarah Walker. Congratulations to the lead author Sandra Nakandakari-Higa! Excited about multiple other ongoing uLIPSTIC projects with the Victora lab, stay tuned.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Tim Kosfeld, a CS PhD student, joins the lab</title>
+      <link>https://pritykinlab.github.io/post/2024-02-27-tim/</link>
+      <pubDate>Tue, 27 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/post/2024-02-27-tim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The lab receives a grant from Princeton Precision Health</title>
+      <link>https://pritykinlab.github.io/post/2023-08-14-pph/</link>
+      <pubDate>Mon, 14 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/post/2023-08-14-pph/</guid>
+      <description>&lt;p&gt;The Pritykin lab receives a grant from the &lt;a href=&#34;https://pph.princeton.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Princeton Precision Health Initiative&lt;/a&gt;! The funds will be used to continue our development and application of computational methods for data analysis in T cells from mouse and human.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Yujie Qiao joins the lab as a research specialist</title>
+      <link>https://pritykinlab.github.io/post/2023-07-10-yujie/</link>
+      <pubDate>Mon, 10 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/post/2023-07-10-yujie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genomic Analysis of Foxp3 Function in Regulatory T Cells</title>
+      <link>https://pritykinlab.github.io/publication/2023-foxp3-review/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/publication/2023-foxp3-review/</guid>
       <description></description>
     </item>
     
