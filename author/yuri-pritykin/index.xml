@@ -5,12 +5,28 @@
     <link>https://pritykinlab.github.io/author/yuri-pritykin/</link>
       <atom:link href="https://pritykinlab.github.io/author/yuri-pritykin/index.xml" rel="self" type="application/rss+xml" />
     <description>Yuri Pritykin</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 15 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 21 Mar 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://pritykinlab.github.io/author/yuri-pritykin/avatar_hu9ac998ca819df1cd6990b15f23adac32_724603_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Yuri Pritykin</title>
       <link>https://pritykinlab.github.io/author/yuri-pritykin/</link>
     </image>
+    
+    <item>
+      <title>Single-cell multi-ome regression models identify functional and disease-associated enhancers and enable chromatin potential analysis</title>
+      <link>https://pritykinlab.github.io/publication/2024-scarlink/</link>
+      <pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/publication/2024-scarlink/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multicenter integrated analysis of noncoding CRISPRi screens</title>
+      <link>https://pritykinlab.github.io/publication/2024-multicenter-crispr/</link>
+      <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/publication/2024-multicenter-crispr/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Universal recording of immune cell interactions in vivo</title>
@@ -21,18 +37,18 @@
     </item>
     
     <item>
-      <title>Genomic Analysis of Foxp3 Function in Regulatory T Cells</title>
-      <link>https://pritykinlab.github.io/publication/2023-foxp3-review/</link>
-      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
-      <guid>https://pritykinlab.github.io/publication/2023-foxp3-review/</guid>
+      <title>Lessons for the next generation of scientists from the Second Annual Arthur and Sandra Irving Cancer Immunology Symposium</title>
+      <link>https://pritykinlab.github.io/publication/2023-irvingsymposium/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/publication/2023-irvingsymposium/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Multi-center integrated analysis of non-coding CRISPR screens</title>
-      <link>https://pritykinlab.github.io/publication/2022-multicenter-crispr/</link>
-      <pubDate>Wed, 21 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://pritykinlab.github.io/publication/2022-multicenter-crispr/</guid>
+      <title>Genomic analysis of Foxp3 function in regulatory T cells</title>
+      <link>https://pritykinlab.github.io/publication/2023-foxp3-review/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/publication/2023-foxp3-review/</guid>
       <description></description>
     </item>
     

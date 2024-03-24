@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alexander D. White | Pritykin Lab</title>
+    <link>https://pritykinlab.github.io/author/alexander-d.-white/</link>
+      <atom:link href="https://pritykinlab.github.io/author/alexander-d.-white/index.xml" rel="self" type="application/rss+xml" />
+    <description>Alexander D. White</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 19 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pritykinlab.github.io/media/icon_hu319984673dac842ac8ba1aa7906c04f1_1673_512x512_fill_lanczos_center_3.png</url>
+      <title>Alexander D. White</title>
+      <link>https://pritykinlab.github.io/author/alexander-d.-white/</link>
+    </image>
+    
+    <item>
+      <title>Multicenter integrated analysis of noncoding CRISPRi screens</title>
+      <link>https://pritykinlab.github.io/publication/2024-multicenter-crispr/</link>
+      <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/publication/2024-multicenter-crispr/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

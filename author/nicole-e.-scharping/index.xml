@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nicole E. Scharping | Pritykin Lab</title>
+    <link>https://pritykinlab.github.io/author/nicole-e.-scharping/</link>
+      <atom:link href="https://pritykinlab.github.io/author/nicole-e.-scharping/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nicole E. Scharping</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pritykinlab.github.io/media/icon_hu319984673dac842ac8ba1aa7906c04f1_1673_512x512_fill_lanczos_center_3.png</url>
+      <title>Nicole E. Scharping</title>
+      <link>https://pritykinlab.github.io/author/nicole-e.-scharping/</link>
+    </image>
+    
+    <item>
+      <title>Lessons for the next generation of scientists from the Second Annual Arthur and Sandra Irving Cancer Immunology Symposium</title>
+      <link>https://pritykinlab.github.io/publication/2023-irvingsymposium/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/publication/2023-irvingsymposium/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

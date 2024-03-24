@@ -5,12 +5,28 @@
     <link>https://pritykinlab.github.io/</link>
       <atom:link href="https://pritykinlab.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Pritykin Lab</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 15 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 21 Mar 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://pritykinlab.github.io/media/icon_hu319984673dac842ac8ba1aa7906c04f1_1673_512x512_fill_lanczos_center_3.png</url>
       <title>Pritykin Lab</title>
       <link>https://pritykinlab.github.io/</link>
     </image>
+    
+    <item>
+      <title>Single-cell multi-ome regression models identify functional and disease-associated enhancers and enable chromatin potential analysis</title>
+      <link>https://pritykinlab.github.io/publication/2024-scarlink/</link>
+      <pubDate>Thu, 21 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/publication/2024-scarlink/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multicenter integrated analysis of noncoding CRISPRi screens</title>
+      <link>https://pritykinlab.github.io/publication/2024-multicenter-crispr/</link>
+      <pubDate>Tue, 19 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/publication/2024-multicenter-crispr/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Universal recording of immune cell interactions in vivo</title>
@@ -38,6 +54,14 @@ Amazing computational biology by our PhD student Sarah Walker. Congratulations t
     </item>
     
     <item>
+      <title>Lessons for the next generation of scientists from the Second Annual Arthur and Sandra Irving Cancer Immunology Symposium</title>
+      <link>https://pritykinlab.github.io/publication/2023-irvingsymposium/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/publication/2023-irvingsymposium/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>The lab receives a grant from Princeton Precision Health</title>
       <link>https://pritykinlab.github.io/post/2023-08-14-pph/</link>
       <pubDate>Mon, 14 Aug 2023 00:00:00 +0000</pubDate>
@@ -54,7 +78,7 @@ Amazing computational biology by our PhD student Sarah Walker. Congratulations t
     </item>
     
     <item>
-      <title>Genomic Analysis of Foxp3 Function in Regulatory T Cells</title>
+      <title>Genomic analysis of Foxp3 function in regulatory T cells</title>
       <link>https://pritykinlab.github.io/publication/2023-foxp3-review/</link>
       <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
       <guid>https://pritykinlab.github.io/publication/2023-foxp3-review/</guid>
@@ -83,14 +107,6 @@ Amazing computational biology by our PhD student Sarah Walker. Congratulations t
       <pubDate>Mon, 09 Jan 2023 00:00:00 +0000</pubDate>
       <guid>https://pritykinlab.github.io/post/2023-01-09-adina/</guid>
       <description>&lt;p&gt;Welcome Adina!&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Multi-center integrated analysis of non-coding CRISPR screens</title>
-      <link>https://pritykinlab.github.io/publication/2022-multicenter-crispr/</link>
-      <pubDate>Wed, 21 Dec 2022 00:00:00 +0000</pubDate>
-      <guid>https://pritykinlab.github.io/publication/2022-multicenter-crispr/</guid>
-      <description></description>
     </item>
     
     <item>
