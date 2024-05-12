@@ -5,12 +5,20 @@
     <link>https://pritykinlab.github.io/</link>
       <atom:link href="https://pritykinlab.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Pritykin Lab</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 21 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 10 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://pritykinlab.github.io/media/icon_hu319984673dac842ac8ba1aa7906c04f1_1673_512x512_fill_lanczos_center_3.png</url>
       <title>Pritykin Lab</title>
       <link>https://pritykinlab.github.io/</link>
     </image>
+    
+    <item>
+      <title>Congratulations to Tamjeed and Dillon on passing their general exam</title>
+      <link>https://pritykinlab.github.io/post/2024-05-10-generals/</link>
+      <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/post/2024-05-10-generals/</guid>
+      <description>&lt;p&gt;Computer science PhD students in the lab Tamjeed Azad and Dillon Lue have successfully passed their general exams. Congratulations!&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Single-cell multi-ome regression models identify functional and disease-associated enhancers and enable chromatin potential analysis</title>
@@ -58,6 +66,14 @@ Amazing computational biology by our PhD student Sarah Walker. Congratulations t
       <link>https://pritykinlab.github.io/publication/2023-irvingsymposium/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
       <guid>https://pritykinlab.github.io/publication/2023-irvingsymposium/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Two CS Masters students, Yanjin Chen and Brendan Wang, join the lab</title>
+      <link>https://pritykinlab.github.io/post/2023-09-30-yanjin-brendan/</link>
+      <pubDate>Sat, 30 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/post/2023-09-30-yanjin-brendan/</guid>
       <description></description>
     </item>
     
