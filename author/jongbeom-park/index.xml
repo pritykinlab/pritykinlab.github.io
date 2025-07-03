@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jongbeom Park | Pritykin Lab</title>
+    <link>https://pritykinlab.github.io/author/jongbeom-park/</link>
+      <atom:link href="https://pritykinlab.github.io/author/jongbeom-park/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jongbeom Park</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 16 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pritykinlab.github.io/media/icon_hu319984673dac842ac8ba1aa7906c04f1_1673_512x512_fill_lanczos_center_3.png</url>
+      <title>Jongbeom Park</title>
+      <link>https://pritykinlab.github.io/author/jongbeom-park/</link>
+    </image>
+    
+    <item>
+      <title>Cathelicidin antimicrobial peptides mediate immune protection in marsupial neonates</title>
+      <link>https://pritykinlab.github.io/publication/2025-glider/</link>
+      <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/publication/2025-glider/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

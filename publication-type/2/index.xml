@@ -5,12 +5,44 @@
     <link>https://pritykinlab.github.io/publication-type/2/</link>
       <atom:link href="https://pritykinlab.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 21 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 16 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://pritykinlab.github.io/media/icon_hu319984673dac842ac8ba1aa7906c04f1_1673_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
       <link>https://pritykinlab.github.io/publication-type/2/</link>
     </image>
+    
+    <item>
+      <title>Cathelicidin antimicrobial peptides mediate immune protection in marsupial neonates</title>
+      <link>https://pritykinlab.github.io/publication/2025-glider/</link>
+      <pubDate>Wed, 16 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/publication/2025-glider/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Genome-wide CRISPR guide RNA design and specificity analysis with GuideScan2</title>
+      <link>https://pritykinlab.github.io/publication/2025-guidescan2/</link>
+      <pubDate>Wed, 26 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/publication/2025-guidescan2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Terminal differentiation and persistence of effector regulatory T cells essential for preventing intestinal inflammation</title>
+      <link>https://pritykinlab.github.io/publication/2025-treg-il10/</link>
+      <pubDate>Tue, 04 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/publication/2025-treg-il10/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Engineered extrachromosomal oncogene amplifications promote tumorigenesis</title>
+      <link>https://pritykinlab.github.io/publication/2025-ecdna/</link>
+      <pubDate>Wed, 18 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/publication/2025-ecdna/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Single-cell multi-ome regression models identify functional and disease-associated enhancers and enable chromatin potential analysis</title>

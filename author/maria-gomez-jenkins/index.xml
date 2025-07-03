@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maria Gomez-Jenkins | Pritykin Lab</title>
+    <link>https://pritykinlab.github.io/author/maria-gomez-jenkins/</link>
+      <atom:link href="https://pritykinlab.github.io/author/maria-gomez-jenkins/index.xml" rel="self" type="application/rss+xml" />
+    <description>Maria Gomez-Jenkins</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pritykinlab.github.io/media/icon_hu319984673dac842ac8ba1aa7906c04f1_1673_512x512_fill_lanczos_center_3.png</url>
+      <title>Maria Gomez-Jenkins</title>
+      <link>https://pritykinlab.github.io/author/maria-gomez-jenkins/</link>
+    </image>
+    
+    <item>
+      <title>Autophagy Suppresses CCL2 to Preserve Appetite and Prevent Lethal Cachexia</title>
+      <link>https://pritykinlab.github.io/publication/2025-cachexia/</link>
+      <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/publication/2025-cachexia/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
