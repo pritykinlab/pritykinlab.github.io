@@ -5,12 +5,20 @@
     <link>https://pritykinlab.github.io/author/adina-scheinfeld/</link>
       <atom:link href="https://pritykinlab.github.io/author/adina-scheinfeld/index.xml" rel="self" type="application/rss+xml" />
     <description>Adina Scheinfeld</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Feb 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://pritykinlab.github.io/author/adina-scheinfeld/avatar_hu91d3fdd82deb699cf3bbfee80cc8bde1_322183_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://pritykinlab.github.io/media/icon_hu319984673dac842ac8ba1aa7906c04f1_1673_512x512_fill_lanczos_center_3.png</url>
       <title>Adina Scheinfeld</title>
       <link>https://pritykinlab.github.io/author/adina-scheinfeld/</link>
     </image>
+    
+    <item>
+      <title>Autophagy Suppresses CCL2 to Preserve Appetite and Prevent Lethal Cachexia</title>
+      <link>https://pritykinlab.github.io/publication/2025-cachexia/</link>
+      <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/publication/2025-cachexia/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

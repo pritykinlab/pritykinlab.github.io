@@ -5,12 +5,36 @@
     <link>https://pritykinlab.github.io/</link>
       <atom:link href="https://pritykinlab.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Pritykin Lab</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 03 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 15 Sep 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://pritykinlab.github.io/media/icon_hu319984673dac842ac8ba1aa7906c04f1_1673_512x512_fill_lanczos_center_3.png</url>
       <title>Pritykin Lab</title>
       <link>https://pritykinlab.github.io/</link>
     </image>
+    
+    <item>
+      <title>3D chromatin structures precede genome activation in Drosophila embryogenesis</title>
+      <link>https://pritykinlab.github.io/publication/2025-flymicroc/</link>
+      <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/publication/2025-flymicroc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ArchVelo: archetypal velocity modeling for single-cell multi-omic trajectories</title>
+      <link>https://pritykinlab.github.io/publication/2025-archvelo/</link>
+      <pubDate>Sun, 14 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/publication/2025-archvelo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Single-cell multiomics reveals archetypal regulatory programs shared across CD4 and CD8 T cell subsets in viral infection</title>
+      <link>https://pritykinlab.github.io/publication/2025-tcell-multiomics/</link>
+      <pubDate>Mon, 08 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/publication/2025-tcell-multiomics/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Yuri co-organizes a new regular track Computational Systems Immunology at ISMB 2025</title>
