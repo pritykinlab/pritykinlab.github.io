@@ -5,12 +5,20 @@
     <link>https://pritykinlab.github.io/post/</link>
       <atom:link href="https://pritykinlab.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>News</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 03 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 20 Aug 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://pritykinlab.github.io/media/icon_hu319984673dac842ac8ba1aa7906c04f1_1673_512x512_fill_lanczos_center_3.png</url>
       <title>News</title>
       <link>https://pritykinlab.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>Pritykin lab joins the Weill Cancer Hub East</title>
+      <link>https://pritykinlab.github.io/post/2025-08-20-weill/</link>
+      <pubDate>Wed, 20 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/post/2025-08-20-weill/</guid>
+      <description>&lt;p&gt;The Pritykin lab joins and receives funding from the new &lt;a href=&#34;https://www.princeton.edu/news/2025/03/27/princeton-joins-new-cancer-research-hub-established-gift-weill-family-foundation&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Weill Cancer Hub East&lt;/a&gt;. This will allow us to extend our studies of the immune microenvironments in cancer using experimental and computational genomics in mouse models and human samples, and will enable new collaboration with researchers of the hub coming from the &lt;a href=&#34;https://www.rockefeller.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Rockefeller University&lt;/a&gt;, &lt;a href=&#34;https://weill.cornell.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Weill Cornell Medicine&lt;/a&gt; and &lt;a href=&#34;https://www.princeton.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Princeton University&lt;/a&gt; including the &lt;a href=&#34;https://ludwigcancer.princeton.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ludwig Princeton Branch&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Yuri co-organizes a new regular track Computational Systems Immunology at ISMB 2025</title>
@@ -34,6 +42,15 @@
       <pubDate>Fri, 30 May 2025 00:00:00 +0000</pubDate>
       <guid>https://pritykinlab.github.io/post/2025-05-30-generals/</guid>
       <description>&lt;p&gt;Computer science PhD student in the lab Zhiyue Zhang, co-advised by &lt;a href=&#34;https://molbio.princeton.edu/people/lydia-lynch&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lydia Lynch&lt;/a&gt;, has successfully passed her general (qualifying) exam. Congratulations!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>The GuideScan2 paper is published in Genome Biology!</title>
+      <link>https://pritykinlab.github.io/post/2025-03-01-guidescan2/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/post/2025-03-01-guidescan2/</guid>
+      <description>&lt;p&gt;The &lt;a href=&#34;../../../publication/2025-guidescan2/index.html&#34;&gt;GuideScan2 paper&lt;/a&gt; is published in &lt;a href=&#34;https://doi.org/10.1186/s13059-025-03488-8&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Genome Biology&lt;/a&gt;! We are introducing a new CRISPR guide RNA design and analysis method, available as an &lt;a href=&#34;https://github.com/pritykinlab/guidescan-cli&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;open source software package&lt;/a&gt; and a user-friendly &lt;a href=&#34;https://guidescan.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;web interface&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Exciting collaboration with the labs of &lt;a href=&#34;https://www.mskcc.org/research/ski/labs/christina-leslie&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Christina Leslie&lt;/a&gt; and &lt;a href=&#34;https://www.mskcc.org/research/ski/labs/andrea-ventura&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Andrea Ventura&lt;/a&gt; at &lt;a href=&#34;https://www.mskcc.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Memorial Sloan Kettering Cancer Center&lt;/a&gt;, and congratulations to co-first authors &lt;a href=&#34;https://henricschmidt.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Henri Schmidt&lt;/a&gt; and &lt;a href=&#34;https://www.mskcc.org/cancer-care/doctors/minsi-zhang&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Minsi Zhang&lt;/a&gt;!&lt;/p&gt;</description>
     </item>
     
     <item>
