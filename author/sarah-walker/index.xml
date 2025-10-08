@@ -5,24 +5,23 @@
     <link>https://pritykinlab.github.io/author/sarah-walker/</link>
       <atom:link href="https://pritykinlab.github.io/author/sarah-walker/index.xml" rel="self" type="application/rss+xml" />
     <description>Sarah Walker</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 30 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 14 Sep 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://pritykinlab.github.io/author/sarah-walker/avatar_huf1007357444e70aeea8469c69e56f412_744956_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://pritykinlab.github.io/media/icon_hu319984673dac842ac8ba1aa7906c04f1_1673_512x512_fill_lanczos_center_3.png</url>
       <title>Sarah Walker</title>
       <link>https://pritykinlab.github.io/author/sarah-walker/</link>
     </image>
     
     <item>
-      <title>Hierarchical regulation of the resting and activated T cell epigenome by major transcription factor families</title>
-      <link>https://pritykinlab.github.io/publication/2022-t-cell-tfs/</link>
-      <pubDate>Thu, 30 Dec 2021 00:00:00 +0000</pubDate>
-      <guid>https://pritykinlab.github.io/publication/2022-t-cell-tfs/</guid>
+      <title>ArchVelo: archetypal velocity modeling for single-cell multi-omic trajectories</title>
+      <link>https://pritykinlab.github.io/publication/2025-archvelo/</link>
+      <pubDate>Sun, 14 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/publication/2025-archvelo/</guid>
       <description></description>
     </item>
     
-  </channel>
-</rss>
-ry programs shared across CD4 and CD8 T cell subsets in viral infection</title>
+    <item>
+      <title>Single-cell multiomics reveals archetypal regulatory programs shared across CD4 and CD8 T cell subsets in viral infection</title>
       <link>https://pritykinlab.github.io/publication/2025-tcell-multiomics/</link>
       <pubDate>Mon, 08 Sep 2025 00:00:00 +0000</pubDate>
       <guid>https://pritykinlab.github.io/publication/2025-tcell-multiomics/</guid>
