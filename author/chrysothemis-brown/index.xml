@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chrysothemis Brown | Pritykin Lab</title>
+    <link>https://pritykinlab.github.io/author/chrysothemis-brown/</link>
+      <atom:link href="https://pritykinlab.github.io/author/chrysothemis-brown/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chrysothemis Brown</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 13 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pritykinlab.github.io/media/icon_hu319984673dac842ac8ba1aa7906c04f1_1673_512x512_fill_lanczos_center_3.png</url>
+      <title>Chrysothemis Brown</title>
+      <link>https://pritykinlab.github.io/author/chrysothemis-brown/</link>
+    </image>
+    
+    <item>
+      <title>Benchmarking cell type deconvolution in spatial transcriptomics and application to cancer immunotherapy</title>
+      <link>https://pritykinlab.github.io/publication/2026-visium-benchmark/</link>
+      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/publication/2026-visium-benchmark/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

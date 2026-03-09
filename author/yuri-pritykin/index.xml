@@ -5,12 +5,28 @@
     <link>https://pritykinlab.github.io/author/yuri-pritykin/</link>
       <atom:link href="https://pritykinlab.github.io/author/yuri-pritykin/index.xml" rel="self" type="application/rss+xml" />
     <description>Yuri Pritykin</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 08 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 23 Feb 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://pritykinlab.github.io/author/yuri-pritykin/avatar_hu9ac998ca819df1cd6990b15f23adac32_724603_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Yuri Pritykin</title>
       <link>https://pritykinlab.github.io/author/yuri-pritykin/</link>
     </image>
+    
+    <item>
+      <title>Predictive modeling of molecular activity underlying physical cell-cell interactions</title>
+      <link>https://pritykinlab.github.io/publication/2026-gloss/</link>
+      <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/publication/2026-gloss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Benchmarking cell type deconvolution in spatial transcriptomics and application to cancer immunotherapy</title>
+      <link>https://pritykinlab.github.io/publication/2026-visium-benchmark/</link>
+      <pubDate>Tue, 13 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/publication/2026-visium-benchmark/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Temporal and context-dependent requirements for the transcription factor Foxp3 expression in regulatory T cells</title>

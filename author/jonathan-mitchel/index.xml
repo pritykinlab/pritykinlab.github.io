@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jonathan Mitchel | Pritykin Lab</title>
+    <link>https://pritykinlab.github.io/author/jonathan-mitchel/</link>
+      <atom:link href="https://pritykinlab.github.io/author/jonathan-mitchel/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jonathan Mitchel</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://pritykinlab.github.io/author/jonathan-mitchel/avatar_hu974b8bea9f637cda507ac3dd6d995c34_204249_270x270_fill_q75_lanczos_center.jpeg</url>
+      <title>Jonathan Mitchel</title>
+      <link>https://pritykinlab.github.io/author/jonathan-mitchel/</link>
+    </image>
+    
+  </channel>
+</rss>
