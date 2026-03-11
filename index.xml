@@ -5,7 +5,7 @@
     <link>https://pritykinlab.github.io/</link>
       <atom:link href="https://pritykinlab.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Pritykin Lab</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 23 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 25 Feb 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://pritykinlab.github.io/media/icon_hu319984673dac842ac8ba1aa7906c04f1_1673_512x512_fill_lanczos_center_3.png</url>
       <title>Pritykin Lab</title>
@@ -13,10 +13,26 @@
     </image>
     
     <item>
+      <title>Gloss paper is published in Cell Reports Methods!</title>
+      <link>https://pritykinlab.github.io/post/2026-02-25-gloss/</link>
+      <pubDate>Wed, 25 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/post/2026-02-25-gloss/</guid>
+      <description>&lt;p&gt;The &lt;a href=&#34;../../../publication/2026-gloss/index.html&#34;&gt;Gloss paper&lt;/a&gt; is published in &lt;a href=&#34;https://doi.org/10.1016/j.crmeth.2026.101301&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cell Reports Methods&lt;/a&gt;! It introduces a new predictive model for multi-modal data combining scRNA-seq with &lt;a href=&#34;../../../publication/2024-ulipstic/index.html&#34;&gt;LIPSTIC measurments&lt;/a&gt; of direct physical cell-cell interactions. This allows systematically linking gene and pathway activity to LIPSTIC-measured interaction strength. Congratulations to all authors, especially to the lead author &lt;a href=&#34;../../../author/tamjeed-azad/index.html&#34;&gt;Tamjeed Azad&lt;/a&gt;!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Predictive modeling of molecular activity underlying physical cell-cell interactions</title>
       <link>https://pritykinlab.github.io/publication/2026-gloss/</link>
       <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
       <guid>https://pritykinlab.github.io/publication/2026-gloss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dr. Jonathan Mitchel joins the lab as a postdoctoral researcher. Welcome Jonathan!</title>
+      <link>https://pritykinlab.github.io/post/2026-01-15-jonathan/</link>
+      <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/post/2026-01-15-jonathan/</guid>
       <description></description>
     </item>
     
@@ -29,11 +45,36 @@
     </item>
     
     <item>
+      <title>Sarah Walker successfully defends PhD today. Huge congratulations Dr. Walker!</title>
+      <link>https://pritykinlab.github.io/post/2025-12-17-sarah-phd/</link>
+      <pubDate>Wed, 17 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/post/2025-12-17-sarah-phd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gabe Dolsten successfully defends PhD today. Huge congratulations Dr. Dolsten! The first PhD from the lab!</title>
+      <link>https://pritykinlab.github.io/post/2025-11-06-gabe-phd/</link>
+      <pubDate>Thu, 06 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/post/2025-11-06-gabe-phd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Temporal and context-dependent requirements for the transcription factor Foxp3 expression in regulatory T cells</title>
       <link>https://pritykinlab.github.io/publication/2025-treg-foxp3-degrade/</link>
       <pubDate>Wed, 08 Oct 2025 00:00:00 +0000</pubDate>
       <guid>https://pritykinlab.github.io/publication/2025-treg-foxp3-degrade/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Treg Foxp3 degradation paper is published in Nature Immunology!</title>
+      <link>https://pritykinlab.github.io/post/2025-10-08-treg-foxp3-degrade/</link>
+      <pubDate>Wed, 08 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/post/2025-10-08-treg-foxp3-degrade/</guid>
+      <description>&lt;p&gt;The &lt;a href=&#34;../../../publication/2025-treg-foxp3-degrade/index.html&#34;&gt;paper&lt;/a&gt; exploring the role of Foxp3 in Treg cells using a new experimental system of inducible protein degradation is published in &lt;a href=&#34;https://doi.org/10.1038/s41590-025-02295-4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nature Immunology&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;Exciting collaboration with the labs of &lt;a href=&#34;https://www.mskcc.org/research/ski/labs/alexander-rudensky&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Alexander Rudensky&lt;/a&gt; at &lt;a href=&#34;https://www.mskcc.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Memorial Sloan Kettering Cancer Center&lt;/a&gt; and &lt;a href=&#34;https://www.weihulab.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wei Hu&lt;/a&gt; at &lt;a href=&#34;https://medicine.yale.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yale School of Medicine&lt;/a&gt;. Congratulations to all authors, including our own &lt;a href=&#34;../../../author/gabriel-dolsten/index.html&#34;&gt;Gabe Dolsten&lt;/a&gt; who performed all computational data analysis for this study!&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -50,6 +91,15 @@
       <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
       <guid>https://pritykinlab.github.io/publication/2025-flymicroc/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Drosophila embryo Micro-C paper is published in Cell Genomics!</title>
+      <link>https://pritykinlab.github.io/post/2025-10-08-fly-microc/</link>
+      <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/post/2025-10-08-fly-microc/</guid>
+      <description>&lt;p&gt;Our &lt;a href=&#34;../../../publication/2025-flymicroc/index.html&#34;&gt;paper&lt;/a&gt; with extensive 3D chromatin architecture analysis of early &lt;em&gt;Drosophila&lt;/em&gt; embryogenesis is published in &lt;a href=&#34;https://doi.org/10.1016/j.xgen.2025.101002&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cell Genomics&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;Exciting collaboration with the labs of &lt;a href=&#34;https://www.mikelevinelab.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Mike Levine&lt;/a&gt; and &lt;a href=&#34;https://function.princeton.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Olga Troyanskaya&lt;/a&gt; at the &lt;a href=&#34;https://lsi.princeton.edu/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lewis-Sigler Institute, Princeton University&lt;/a&gt;. Congratulations to all authors, especially to the lead author &lt;a href=&#34;../../../author/gabriel-dolsten/index.html&#34;&gt;Gabe Dolsten&lt;/a&gt;!&lt;/p&gt;</description>
     </item>
     
     <item>
