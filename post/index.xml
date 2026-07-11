@@ -5,7 +5,7 @@
     <link>https://pritykinlab.github.io/post/</link>
       <atom:link href="https://pritykinlab.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>News</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 25 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 06 Jun 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://pritykinlab.github.io/media/icon_hu319984673dac842ac8ba1aa7906c04f1_1673_512x512_fill_lanczos_center_3.png</url>
       <title>News</title>
@@ -13,7 +13,36 @@
     </image>
     
     <item>
-      <title>Gloss paper is published in Cell Reports Methods!</title>
+      <title>ArchVelo is published in Nature Communications</title>
+      <link>https://pritykinlab.github.io/post/2026-06-06-archvelo/</link>
+      <pubDate>Sat, 06 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/post/2026-06-06-archvelo/</guid>
+      <description>&lt;p&gt;Our &lt;a href=&#34;../../../publication/2026-archvelo/index.html&#34;&gt;ArchVelo paper&lt;/a&gt; describing a new method for trajectory inference from scATAC+RNA-seq multiomics data is published in &lt;a href=&#34;https://doi.org/10.1038/s41467-026-74000-4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nature Communications&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;ArchVelo outperforms existing methods and enables new types of analyses, such as archetypal trajectory decomposition to define cell bifurcations and multi-potency, and identification of the underlying transcription factor regulators.
+Using ArchVelo, we infer previously uncharacterized CD8 T cell transitions in response to viral infection.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Our study on the immune response during pregnancy is published in Nature</title>
+      <link>https://pritykinlab.github.io/post/2026-05-13-eosinophils/</link>
+      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/post/2026-05-13-eosinophils/</guid>
+      <description>&lt;p&gt;Our &lt;a href=&#34;../../../publication/2026-eos-pregnancy/index.html&#34;&gt;paper&lt;/a&gt; in collaboration with the lab of &lt;a href=&#34;https://molbio.princeton.edu/people/ai-ing-lim&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ai Ing Lim&lt;/a&gt; describing the immune remodeling of the intestine during pregnancy is published in &lt;a href=&#34;https://doi.org/10.1038/s41586-026-10531-6&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nature&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;Congratulations to all authors, especially to our &lt;a href=&#34;../../../author/amanda-sun/index.html&#34;&gt;Amanda Sun&lt;/a&gt; who led all computational analysis of single-cell and spatial transcriptomics data in this study!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Treg metadomain and metaloop paper is published in Cell Reports</title>
+      <link>https://pritykinlab.github.io/post/2026-05-08-treg-metaloops/</link>
+      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/post/2026-05-08-treg-metaloops/</guid>
+      <description>&lt;p&gt;Our &lt;a href=&#34;../../../publication/2026-treg-metaloops/index.html&#34;&gt;paper&lt;/a&gt; reporting ultra-long-range and interchromosomal genomic interactions in mouse T cells is published in &lt;a href=&#34;https://doi.org/10.1016/j.celrep.2026.117341&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cell Reports&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;Exciting collaboration with the lab of &lt;a href=&#34;https://www.mskcc.org/research/ski/labs/alexander-rudensky&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sasha Rudensky&lt;/a&gt; at &lt;a href=&#34;https://www.mskcc.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Memorial Sloan Kettering Cancer Center&lt;/a&gt; and many others.
+Congratulations to all authors, especially to the lead author &lt;a href=&#34;../../../author/gabriel-dolsten/index.html&#34;&gt;Gabe Dolsten&lt;/a&gt;!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Gloss paper is published in Cell Reports Methods</title>
       <link>https://pritykinlab.github.io/post/2026-02-25-gloss/</link>
       <pubDate>Wed, 25 Feb 2026 00:00:00 +0000</pubDate>
       <guid>https://pritykinlab.github.io/post/2026-02-25-gloss/</guid>
@@ -54,7 +83,15 @@
     </item>
     
     <item>
-      <title>Drosophila embryo Micro-C paper is published in Cell Genomics!</title>
+      <title>Sarah Walker is awarded QCB&#39;s Cassidy Yang Memorial Prize</title>
+      <link>https://pritykinlab.github.io/post/2025-09-23-sarah-yang-award/</link>
+      <pubDate>Tue, 23 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/post/2025-09-23-sarah-yang-award/</guid>
+      <description>&lt;p&gt;Sarah Walker wins the &lt;a href=&#34;https://lsi.princeton.edu/news/2025/siena-dumas-ang-and-sarah-walker-are-awarded-qcbs-cassidy-yang-memorial-prize&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cassidy Yang Memorial Prize&lt;/a&gt; from the Princeton &lt;a href=&#34;https://lsi.princeton.edu/education/quantitative-computational-biology-graduate-program&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;QCB program&lt;/a&gt;! The Cassidy Yang awards are given to graduate students who excel in academics in science or engineering and display leadership in mentoring other students, participating in outreach activities, and fostering the graduate student community. Very well deserved!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Drosophila embryo Micro-C paper is published in Cell Genomics</title>
       <link>https://pritykinlab.github.io/post/2025-10-08-fly-microc/</link>
       <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
       <guid>https://pritykinlab.github.io/post/2025-10-08-fly-microc/</guid>

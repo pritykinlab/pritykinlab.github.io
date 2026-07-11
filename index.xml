@@ -29,6 +29,16 @@
     </item>
     
     <item>
+      <title>ArchVelo is published in Nature Communications</title>
+      <link>https://pritykinlab.github.io/post/2026-06-06-archvelo/</link>
+      <pubDate>Sat, 06 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/post/2026-06-06-archvelo/</guid>
+      <description>&lt;p&gt;Our &lt;a href=&#34;../../../publication/2026-archvelo/index.html&#34;&gt;ArchVelo paper&lt;/a&gt; describing a new method for trajectory inference from scATAC+RNA-seq multiomics data is published in &lt;a href=&#34;https://doi.org/10.1038/s41467-026-74000-4&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nature Communications&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;ArchVelo outperforms existing methods and enables new types of analyses, such as archetypal trajectory decomposition to define cell bifurcations and multi-potency, and identification of the underlying transcription factor regulators.
+Using ArchVelo, we infer previously uncharacterized CD8 T cell transitions in response to viral infection.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>ArchVelo: archetypal velocity modeling for single-cell multi-omic trajectories</title>
       <link>https://pritykinlab.github.io/publication/2026-archvelo/</link>
       <pubDate>Sat, 06 Jun 2026 00:00:00 +0000</pubDate>
@@ -61,6 +71,25 @@
     </item>
     
     <item>
+      <title>Our study on the immune response during pregnancy is published in Nature</title>
+      <link>https://pritykinlab.github.io/post/2026-05-13-eosinophils/</link>
+      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/post/2026-05-13-eosinophils/</guid>
+      <description>&lt;p&gt;Our &lt;a href=&#34;../../../publication/2026-eos-pregnancy/index.html&#34;&gt;paper&lt;/a&gt; in collaboration with the lab of &lt;a href=&#34;https://molbio.princeton.edu/people/ai-ing-lim&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ai Ing Lim&lt;/a&gt; describing the immune remodeling of the intestine during pregnancy is published in &lt;a href=&#34;https://doi.org/10.1038/s41586-026-10531-6&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nature&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;Congratulations to all authors, especially to our &lt;a href=&#34;../../../author/amanda-sun/index.html&#34;&gt;Amanda Sun&lt;/a&gt; who led all computational analysis of single-cell and spatial transcriptomics data in this study!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Treg metadomain and metaloop paper is published in Cell Reports</title>
+      <link>https://pritykinlab.github.io/post/2026-05-08-treg-metaloops/</link>
+      <pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/post/2026-05-08-treg-metaloops/</guid>
+      <description>&lt;p&gt;Our &lt;a href=&#34;../../../publication/2026-treg-metaloops/index.html&#34;&gt;paper&lt;/a&gt; reporting ultra-long-range and interchromosomal genomic interactions in mouse T cells is published in &lt;a href=&#34;https://doi.org/10.1016/j.celrep.2026.117341&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cell Reports&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;Exciting collaboration with the lab of &lt;a href=&#34;https://www.mskcc.org/research/ski/labs/alexander-rudensky&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sasha Rudensky&lt;/a&gt; at &lt;a href=&#34;https://www.mskcc.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Memorial Sloan Kettering Cancer Center&lt;/a&gt; and many others.
+Congratulations to all authors, especially to the lead author &lt;a href=&#34;../../../author/gabriel-dolsten/index.html&#34;&gt;Gabe Dolsten&lt;/a&gt;!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Metadomain and metaloop genome interactions in mammalian T cells</title>
       <link>https://pritykinlab.github.io/publication/2026-treg-metaloops/</link>
       <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
@@ -69,7 +98,7 @@
     </item>
     
     <item>
-      <title>Gloss paper is published in Cell Reports Methods!</title>
+      <title>Gloss paper is published in Cell Reports Methods</title>
       <link>https://pritykinlab.github.io/post/2026-02-25-gloss/</link>
       <pubDate>Wed, 25 Feb 2026 00:00:00 +0000</pubDate>
       <guid>https://pritykinlab.github.io/post/2026-02-25-gloss/</guid>
@@ -134,6 +163,14 @@
     </item>
     
     <item>
+      <title>Sarah Walker is awarded QCB&#39;s Cassidy Yang Memorial Prize</title>
+      <link>https://pritykinlab.github.io/post/2025-09-23-sarah-yang-award/</link>
+      <pubDate>Tue, 23 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/post/2025-09-23-sarah-yang-award/</guid>
+      <description>&lt;p&gt;Sarah Walker wins the &lt;a href=&#34;https://lsi.princeton.edu/news/2025/siena-dumas-ang-and-sarah-walker-are-awarded-qcbs-cassidy-yang-memorial-prize&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cassidy Yang Memorial Prize&lt;/a&gt; from the Princeton &lt;a href=&#34;https://lsi.princeton.edu/education/quantitative-computational-biology-graduate-program&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;QCB program&lt;/a&gt;! The Cassidy Yang awards are given to graduate students who excel in academics in science or engineering and display leadership in mentoring other students, participating in outreach activities, and fostering the graduate student community. Very well deserved!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>3D chromatin structures precede genome activation in Drosophila embryogenesis</title>
       <link>https://pritykinlab.github.io/publication/2025-flymicroc/</link>
       <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
@@ -142,7 +179,7 @@
     </item>
     
     <item>
-      <title>Drosophila embryo Micro-C paper is published in Cell Genomics!</title>
+      <title>Drosophila embryo Micro-C paper is published in Cell Genomics</title>
       <link>https://pritykinlab.github.io/post/2025-10-08-fly-microc/</link>
       <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
       <guid>https://pritykinlab.github.io/post/2025-10-08-fly-microc/</guid>
@@ -493,7 +530,7 @@ Amazing computational biology by our PhD student Sarah Walker. Congratulations t
       <link>https://pritykinlab.github.io/research/01-tcells/</link>
       <pubDate>Tue, 05 Oct 2021 00:00:00 +0000</pubDate>
       <guid>https://pritykinlab.github.io/research/01-tcells/</guid>
-      <description>&lt;p&gt;CD8 T cells form the central component of the adaptive immune system and are essential in defense against viral and bacterial infections and in tumor immunity. Better molecular characterization of CD8 T cells in different contexts is fundamentally important and can lead to improved clinical results in cancer immunotherapies, infectious diseases, autoimmunity. We performed an extensive genomic, single-cell, and transcription factor &lt;a href=&#34;publication/2021-cd8t/index.html&#34;&gt;analysis&lt;/a&gt; of CD8 T cell functional and dysfunctional states. We now continue studying regulatory mechanisms and cell-cell interactions governing T cell activation and functional commitment across immune challenges in mouse and human using single-cell and spatial multi-omics and direct cell-cell interaction profiling. We are also expanding these approaches to other immune cell types.&lt;/p&gt;</description>
+      <description>&lt;p&gt;T cells form the central component of the adaptive immune system and are essential in defense against viral and bacterial infections and in tumor immunity. Better molecular characterization of CD8 T cells in different contexts is fundamentally important and can lead to improved clinical results in cancer immunotherapies, infectious diseases, and autoimmunity. We performed an extensive genomic, single-cell, and transcription factor &lt;a href=&#34;publication/2021-cd8t/index.html&#34;&gt;analysis&lt;/a&gt; of CD8 T cell functional and dysfunctional states. We now continue studying regulatory mechanisms and cell-cell interactions governing T cell activation and functional commitment across immune challenges in mouse and human using single-cell and spatial multi-omics and direct cell-cell interaction profiling. We are also expanding these approaches to other immune cell types.&lt;/p&gt;</description>
     </item>
     
     <item>
