@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research-olds | Pritykin Lab</title>
+    <link>https://pritykinlab.github.io/research-old/</link>
+      <atom:link href="https://pritykinlab.github.io/research-old/index.xml" rel="self" type="application/rss+xml" />
+    <description>Research-olds</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pritykinlab.github.io/media/icon_hu319984673dac842ac8ba1aa7906c04f1_1673_512x512_fill_lanczos_center_3.png</url>
+      <title>Research-olds</title>
+      <link>https://pritykinlab.github.io/research-old/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>https://pritykinlab.github.io/research-old/05-heap/index-old/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/research-old/05-heap/index-old/</guid>
+      <description>&lt;p&gt;Cross-linking immunoprecipitation followed by sequencing (CLIP-seq) is a family of methods for profiling sites of protein binding to RNA. In particular, CLIP has been used to identify targets of microRNAs, small non-coding RNA molecules that bind to a protein Ago2 and thus regulate gene expression post-transcriptionally. We developed a new algorithm &lt;a href=&#34;https://bitbucket.org/leslielab/clipanalyze&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CLIPanalyze&lt;/a&gt; for analysis of such data and used it for &lt;a href=&#34;publication/2020-mol-cell-heap/index.html&#34;&gt;comprehensive analysis&lt;/a&gt; of microRNA targets &lt;em&gt;in vivo&lt;/em&gt; in mouse embryonic stem cells, developing embryos, adult tissues and multiple cancer models. We now continue development and application of methods for studies of post-transcriptional regulation.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
