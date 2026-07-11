@@ -5,12 +5,68 @@
     <link>https://pritykinlab.github.io/publication/</link>
       <atom:link href="https://pritykinlab.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 23 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 19 Jun 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://pritykinlab.github.io/media/icon_hu319984673dac842ac8ba1aa7906c04f1_1673_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://pritykinlab.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Sequence-to-function modeling uncovers the context-specific grammar of Drosophila chromatin insulation</title>
+      <link>https://pritykinlab.github.io/publication/2026-flymicroc-s2f/</link>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/publication/2026-flymicroc-s2f/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discovery of Tcf7 regulators with clonally-resolved CRISPR screens identifies Trim28 as a mediator of CD8 T cell differentiation in tumors</title>
+      <link>https://pritykinlab.github.io/publication/2026-tcf7-perturbseq/</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/publication/2026-tcf7-perturbseq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ArchVelo: archetypal velocity modeling for single-cell multi-omic trajectories</title>
+      <link>https://pritykinlab.github.io/publication/2026-archvelo/</link>
+      <pubDate>Sat, 06 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/publication/2026-archvelo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shared binding sites for the chromosomal architectural protein Su(Hw) mediate physical interactions between Drosophila TAD boundaries</title>
+      <link>https://pritykinlab.github.io/publication/2026-fly-suhw/</link>
+      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/publication/2026-fly-suhw/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A community machine learning challenge to predict the effects of gene perturbations on T cell differentiation for cancer immunotherapy</title>
+      <link>https://pritykinlab.github.io/publication/2026-mlchallenge-tcells/</link>
+      <pubDate>Fri, 22 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/publication/2026-mlchallenge-tcells/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eosinophils drive intestinal remodelling and innate defence in reproduction</title>
+      <link>https://pritykinlab.github.io/publication/2026-eos-pregnancy/</link>
+      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/publication/2026-eos-pregnancy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Metadomain and metaloop genome interactions in mammalian T cells</title>
+      <link>https://pritykinlab.github.io/publication/2026-treg-metaloops/</link>
+      <pubDate>Thu, 07 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/publication/2026-treg-metaloops/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Predictive modeling of molecular activity underlying physical cell-cell interactions</title>
@@ -37,26 +93,10 @@
     </item>
     
     <item>
-      <title>Metadomain and metaloop genome interactions in mammalian T cells</title>
-      <link>https://pritykinlab.github.io/publication/2025-treg-metaloops/</link>
-      <pubDate>Fri, 19 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://pritykinlab.github.io/publication/2025-treg-metaloops/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>3D chromatin structures precede genome activation in Drosophila embryogenesis</title>
       <link>https://pritykinlab.github.io/publication/2025-flymicroc/</link>
       <pubDate>Mon, 15 Sep 2025 00:00:00 +0000</pubDate>
       <guid>https://pritykinlab.github.io/publication/2025-flymicroc/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ArchVelo: archetypal velocity modeling for single-cell multi-omic trajectories</title>
-      <link>https://pritykinlab.github.io/publication/2025-archvelo/</link>
-      <pubDate>Sun, 14 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://pritykinlab.github.io/publication/2025-archvelo/</guid>
       <description></description>
     </item>
     

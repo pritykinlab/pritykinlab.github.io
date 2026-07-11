@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Amina Kurbidaeva | Pritykin Lab</title>
+    <link>https://pritykinlab.github.io/author/amina-kurbidaeva/</link>
+      <atom:link href="https://pritykinlab.github.io/author/amina-kurbidaeva/index.xml" rel="self" type="application/rss+xml" />
+    <description>Amina Kurbidaeva</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 19 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://pritykinlab.github.io/media/icon_hu319984673dac842ac8ba1aa7906c04f1_1673_512x512_fill_lanczos_center_3.png</url>
+      <title>Amina Kurbidaeva</title>
+      <link>https://pritykinlab.github.io/author/amina-kurbidaeva/</link>
+    </image>
+    
+    <item>
+      <title>Sequence-to-function modeling uncovers the context-specific grammar of Drosophila chromatin insulation</title>
+      <link>https://pritykinlab.github.io/publication/2026-flymicroc-s2f/</link>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/publication/2026-flymicroc-s2f/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shared binding sites for the chromosomal architectural protein Su(Hw) mediate physical interactions between Drosophila TAD boundaries</title>
+      <link>https://pritykinlab.github.io/publication/2026-fly-suhw/</link>
+      <pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/publication/2026-fly-suhw/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

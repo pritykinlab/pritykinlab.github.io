@@ -5,12 +5,20 @@
     <link>https://pritykinlab.github.io/author/dillon-lue/</link>
       <atom:link href="https://pritykinlab.github.io/author/dillon-lue/index.xml" rel="self" type="application/rss+xml" />
     <description>Dillon Lue</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 17 Jun 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://pritykinlab.github.io/author/dillon-lue/avatar_hu334b91d8a66801795a5686de044405ab_276245_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://pritykinlab.github.io/media/icon_hu319984673dac842ac8ba1aa7906c04f1_1673_512x512_fill_lanczos_center_3.png</url>
       <title>Dillon Lue</title>
       <link>https://pritykinlab.github.io/author/dillon-lue/</link>
     </image>
+    
+    <item>
+      <title>Discovery of Tcf7 regulators with clonally-resolved CRISPR screens identifies Trim28 as a mediator of CD8 T cell differentiation in tumors</title>
+      <link>https://pritykinlab.github.io/publication/2026-tcf7-perturbseq/</link>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/publication/2026-tcf7-perturbseq/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
