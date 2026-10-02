@@ -5,12 +5,20 @@
     <link>https://pritykinlab.github.io/post/</link>
       <atom:link href="https://pritykinlab.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>News</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 06 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 17 Sep 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://pritykinlab.github.io/media/icon_hu319984673dac842ac8ba1aa7906c04f1_1673_512x512_fill_lanczos_center_3.png</url>
+      <url>https://pritykinlab.github.io/media/icon_hu319984673dac842ac8ba1aa7906c04f1_1673_512x512_fill_lanczos_center_2.png</url>
       <title>News</title>
       <link>https://pritykinlab.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>Yuri shares his perspective on AI in the life sciences in Cell</title>
+      <link>https://pritykinlab.github.io/post/2026-09-17-cell-ai-voices/</link>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/post/2026-09-17-cell-ai-voices/</guid>
+      <description>&lt;p&gt;Yuri contributed a commentary to a &lt;em&gt;Cell&lt;/em&gt; Voices &lt;a href=&#34;../../../publication/2026-cell-ai-voices/index.html&#34;&gt;article&lt;/a&gt;, offering his perspective on the &lt;a href=&#34;https://doi.org/10.1016/j.cell.2026.08.019&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;opportunities and challenges of AI in biomedical research&lt;/a&gt;, with a focus on predictive immune cell engineering.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>ArchVelo is published in Nature Communications</title>

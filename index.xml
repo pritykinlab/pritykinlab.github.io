@@ -5,12 +5,28 @@
     <link>https://pritykinlab.github.io/</link>
       <atom:link href="https://pritykinlab.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Pritykin Lab</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 19 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 17 Sep 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://pritykinlab.github.io/media/icon_hu319984673dac842ac8ba1aa7906c04f1_1673_512x512_fill_lanczos_center_3.png</url>
+      <url>https://pritykinlab.github.io/media/icon_hu319984673dac842ac8ba1aa7906c04f1_1673_512x512_fill_lanczos_center_2.png</url>
       <title>Pritykin Lab</title>
       <link>https://pritykinlab.github.io/</link>
     </image>
+    
+    <item>
+      <title>Changing minds: How AI is transforming the life sciences</title>
+      <link>https://pritykinlab.github.io/publication/2026-cell-ai-voices/</link>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/publication/2026-cell-ai-voices/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yuri shares his perspective on AI in the life sciences in Cell</title>
+      <link>https://pritykinlab.github.io/post/2026-09-17-cell-ai-voices/</link>
+      <pubDate>Thu, 17 Sep 2026 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/post/2026-09-17-cell-ai-voices/</guid>
+      <description>&lt;p&gt;Yuri contributed a commentary to a &lt;em&gt;Cell&lt;/em&gt; Voices &lt;a href=&#34;../../../publication/2026-cell-ai-voices/index.html&#34;&gt;article&lt;/a&gt;, offering his perspective on the &lt;a href=&#34;https://doi.org/10.1016/j.cell.2026.08.019&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;opportunities and challenges of AI in biomedical research&lt;/a&gt;, with a focus on predictive immune cell engineering.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Sequence-to-function modeling uncovers the context-specific grammar of Drosophila chromatin insulation</title>
@@ -641,7 +657,7 @@ we developed &lt;a href=&#34;publication/2017-nat-biotech-guide-scan/index.html&
     <item>
       <title>Transcription factor Foxp1 regulates Foxp3 chromatin binding and coordinates regulatory T cell function</title>
       <link>https://pritykinlab.github.io/publication/2019-nat-immunol-foxp-1-foxp-3-treg/</link>
-      <pubDate>Fri, 01 Feb 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Feb 2019 00:00:00 -0500</pubDate>
       <guid>https://pritykinlab.github.io/publication/2019-nat-immunol-foxp-1-foxp-3-treg/</guid>
       <description></description>
     </item>
@@ -649,7 +665,7 @@ we developed &lt;a href=&#34;publication/2017-nat-biotech-guide-scan/index.html&
     <item>
       <title>Epigenetic control of innate and adaptive immune memory</title>
       <link>https://pritykinlab.github.io/publication/2018-nat-immunol-epigenetic/</link>
-      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 -0400</pubDate>
       <guid>https://pritykinlab.github.io/publication/2018-nat-immunol-epigenetic/</guid>
       <description></description>
     </item>
@@ -657,7 +673,7 @@ we developed &lt;a href=&#34;publication/2017-nat-biotech-guide-scan/index.html&
     <item>
       <title>Non-redundant ISGF3 components promote NK cell survival in an auto-regulatory manner during viral infection</title>
       <link>https://pritykinlab.github.io/publication/2018-cell-reports-nk/</link>
-      <pubDate>Tue, 21 Aug 2018 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 21 Aug 2018 00:00:00 -0400</pubDate>
       <guid>https://pritykinlab.github.io/publication/2018-cell-reports-nk/</guid>
       <description></description>
     </item>
@@ -665,7 +681,7 @@ we developed &lt;a href=&#34;publication/2017-nat-biotech-guide-scan/index.html&
     <item>
       <title>ILC1 Confer Early Host Protection at Initial Sites of Viral Infection</title>
       <link>https://pritykinlab.github.io/publication/2017-cell-ilc-weizman/</link>
-      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 -0400</pubDate>
       <guid>https://pritykinlab.github.io/publication/2017-cell-ilc-weizman/</guid>
       <description></description>
     </item>
@@ -673,7 +689,7 @@ we developed &lt;a href=&#34;publication/2017-nat-biotech-guide-scan/index.html&
     <item>
       <title>Integrative analysis unveils new functions for the Drosophila Cutoff protein in non-coding RNA biogenesis and gene regulation</title>
       <link>https://pritykinlab.github.io/publication/2017-rna-cutoff/</link>
-      <pubDate>Tue, 18 Apr 2017 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 18 Apr 2017 00:00:00 -0400</pubDate>
       <guid>https://pritykinlab.github.io/publication/2017-rna-cutoff/</guid>
       <description></description>
     </item>
@@ -681,7 +697,7 @@ we developed &lt;a href=&#34;publication/2017-nat-biotech-guide-scan/index.html&
     <item>
       <title>GuideScan software for improved single and paired CRISPR guide RNA design</title>
       <link>https://pritykinlab.github.io/publication/2017-nat-biotech-guide-scan/</link>
-      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 -0500</pubDate>
       <guid>https://pritykinlab.github.io/publication/2017-nat-biotech-guide-scan/</guid>
       <description></description>
     </item>
@@ -689,7 +705,7 @@ we developed &lt;a href=&#34;publication/2017-nat-biotech-guide-scan/index.html&
     <item>
       <title>Cancer Immunosurveillance by Tissue-Resident Innate Lymphoid Cells and Innate-like T Cells</title>
       <link>https://pritykinlab.github.io/publication/2016-cell-ilc-dadi/</link>
-      <pubDate>Thu, 28 Jan 2016 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 28 Jan 2016 00:00:00 -0500</pubDate>
       <guid>https://pritykinlab.github.io/publication/2016-cell-ilc-dadi/</guid>
       <description></description>
     </item>
@@ -697,7 +713,7 @@ we developed &lt;a href=&#34;publication/2017-nat-biotech-guide-scan/index.html&
     <item>
       <title>Genome-Wide Detection and Analysis of Multifunctional Genes</title>
       <link>https://pritykinlab.github.io/publication/2015-ploscb-multifunctionality/</link>
-      <pubDate>Mon, 05 Oct 2015 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 05 Oct 2015 00:00:00 -0400</pubDate>
       <guid>https://pritykinlab.github.io/publication/2015-ploscb-multifunctionality/</guid>
       <description></description>
     </item>
@@ -705,7 +721,7 @@ we developed &lt;a href=&#34;publication/2017-nat-biotech-guide-scan/index.html&
     <item>
       <title>Classifications of protein roles in the functional organization of the cell</title>
       <link>https://pritykinlab.github.io/publication/2014-dissertation/</link>
-      <pubDate>Sat, 20 Sep 2014 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 20 Sep 2014 00:00:00 -0400</pubDate>
       <guid>https://pritykinlab.github.io/publication/2014-dissertation/</guid>
       <description></description>
     </item>
@@ -713,7 +729,7 @@ we developed &lt;a href=&#34;publication/2017-nat-biotech-guide-scan/index.html&
     <item>
       <title>Simple Topological Features Reflect Dynamics and Modularity in Protein Interaction Networks</title>
       <link>https://pritykinlab.github.io/publication/2013-ploscb-hubs/</link>
-      <pubDate>Thu, 10 Oct 2013 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 10 Oct 2013 00:00:00 -0400</pubDate>
       <guid>https://pritykinlab.github.io/publication/2013-ploscb-hubs/</guid>
       <description></description>
     </item>
@@ -721,7 +737,7 @@ we developed &lt;a href=&#34;publication/2017-nat-biotech-guide-scan/index.html&
     <item>
       <title>Empirical validation of the Buckley--Osthus model for the web host graph: degree and edge distributions</title>
       <link>https://pritykinlab.github.io/publication/2012-cikm-hostgraph/</link>
-      <pubDate>Mon, 29 Oct 2012 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 29 Oct 2012 00:00:00 -0400</pubDate>
       <guid>https://pritykinlab.github.io/publication/2012-cikm-hostgraph/</guid>
       <description></description>
     </item>
@@ -729,7 +745,7 @@ we developed &lt;a href=&#34;publication/2017-nat-biotech-guide-scan/index.html&
     <item>
       <title>Almost periodicity, finite automata mappings, and related effectiveness issues</title>
       <link>https://pritykinlab.github.io/publication/2010-russ-math-almost-periodicity/</link>
-      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 -0500</pubDate>
       <guid>https://pritykinlab.github.io/publication/2010-russ-math-almost-periodicity/</guid>
       <description></description>
     </item>
@@ -737,7 +753,7 @@ we developed &lt;a href=&#34;publication/2017-nat-biotech-guide-scan/index.html&
     <item>
       <title>On uniformly recurrent morphic sequences</title>
       <link>https://pritykinlab.github.io/publication/2009-ijfcs-morphic/</link>
-      <pubDate>Thu, 01 Oct 2009 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 Oct 2009 00:00:00 -0400</pubDate>
       <guid>https://pritykinlab.github.io/publication/2009-ijfcs-morphic/</guid>
       <description></description>
     </item>
@@ -745,7 +761,7 @@ we developed &lt;a href=&#34;publication/2017-nat-biotech-guide-scan/index.html&
     <item>
       <title>Алгоритмические свойства последовательностей, близких к периодическим</title>
       <link>https://pritykinlab.github.io/publication/2009-dissertation/</link>
-      <pubDate>Sun, 20 Sep 2009 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 20 Sep 2009 00:00:00 -0400</pubDate>
       <guid>https://pritykinlab.github.io/publication/2009-dissertation/</guid>
       <description></description>
     </item>
@@ -753,7 +769,7 @@ we developed &lt;a href=&#34;publication/2017-nat-biotech-guide-scan/index.html&
     <item>
       <title>О логических теориях и конечных автоматах на бесконечных последовательностях</title>
       <link>https://pritykinlab.github.io/publication/2009-logical-theories/</link>
-      <pubDate>Sun, 20 Sep 2009 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 20 Sep 2009 00:00:00 -0400</pubDate>
       <guid>https://pritykinlab.github.io/publication/2009-logical-theories/</guid>
       <description></description>
     </item>
@@ -761,7 +777,7 @@ we developed &lt;a href=&#34;publication/2017-nat-biotech-guide-scan/index.html&
     <item>
       <title>Aperiodicity Measure for Infinite Sequences</title>
       <link>https://pritykinlab.github.io/publication/2009-csr-aperiodicity-measure/</link>
-      <pubDate>Tue, 18 Aug 2009 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 18 Aug 2009 00:00:00 -0400</pubDate>
       <guid>https://pritykinlab.github.io/publication/2009-csr-aperiodicity-measure/</guid>
       <description></description>
     </item>
@@ -769,7 +785,7 @@ we developed &lt;a href=&#34;publication/2017-nat-biotech-guide-scan/index.html&
     <item>
       <title>Sequences close to periodic</title>
       <link>https://pritykinlab.github.io/publication/2009-surveys-almost-periodicity/</link>
-      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 -0500</pubDate>
       <guid>https://pritykinlab.github.io/publication/2009-surveys-almost-periodicity/</guid>
       <description></description>
     </item>
@@ -777,7 +793,7 @@ we developed &lt;a href=&#34;publication/2017-nat-biotech-guide-scan/index.html&
     <item>
       <title>On almost periodicity criteria for morphic sequences in some particular cases</title>
       <link>https://pritykinlab.github.io/publication/2007-dlt-morphic/</link>
-      <pubDate>Tue, 03 Jul 2007 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 03 Jul 2007 00:00:00 -0400</pubDate>
       <guid>https://pritykinlab.github.io/publication/2007-dlt-morphic/</guid>
       <description></description>
     </item>
@@ -785,7 +801,7 @@ we developed &lt;a href=&#34;publication/2017-nat-biotech-guide-scan/index.html&
     <item>
       <title>Information in Infinite Words</title>
       <link>https://pritykinlab.github.io/publication/2007-words-info/</link>
-      <pubDate>Sun, 01 Jul 2007 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Jul 2007 00:00:00 -0400</pubDate>
       <guid>https://pritykinlab.github.io/publication/2007-words-info/</guid>
       <description></description>
     </item>
@@ -793,7 +809,7 @@ we developed &lt;a href=&#34;publication/2017-nat-biotech-guide-scan/index.html&
     <item>
       <title>Finite-automaton transformations of strictly almost-periodic sequences</title>
       <link>https://pritykinlab.github.io/publication/2006-math-notes-finite-automata/</link>
-      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 -0500</pubDate>
       <guid>https://pritykinlab.github.io/publication/2006-math-notes-finite-automata/</guid>
       <description></description>
     </item>
