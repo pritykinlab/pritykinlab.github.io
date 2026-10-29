@@ -5,12 +5,20 @@
     <link>https://pritykinlab.github.io/publication-type/3/</link>
       <atom:link href="https://pritykinlab.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 19 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 05 Oct 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://pritykinlab.github.io/media/icon_hu319984673dac842ac8ba1aa7906c04f1_1673_512x512_fill_lanczos_center_2.png</url>
       <title>3</title>
       <link>https://pritykinlab.github.io/publication-type/3/</link>
     </image>
+    
+    <item>
+      <title>Prime editing enables high-throughput identification and characterization of selective MutSβ inhibitors</title>
+      <link>https://pritykinlab.github.io/publication/2026-pe-mmr/</link>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/publication/2026-pe-mmr/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Sequence-to-function modeling uncovers the context-specific grammar of Drosophila chromatin insulation</title>
@@ -53,15 +61,7 @@
     </item>
     
     <item>
-      <title>Single-cell multiomics reveals archetypal regulatory programs shared across CD4 and CD8 T cell subsets in viral infection</title>
-      <link>https://pritykinlab.github.io/publication/2025-tcell-multiomics/</link>
-      <pubDate>Mon, 08 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://pritykinlab.github.io/publication/2025-tcell-multiomics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Autophagy Suppresses CCL2 to Preserve Appetite and Prevent Lethal Cachexia</title>
+      <title>Autophagy suppresses CCL2 to preserve appetite and prevent lethal cachexia</title>
       <link>https://pritykinlab.github.io/publication/2025-cachexia/</link>
       <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
       <guid>https://pritykinlab.github.io/publication/2025-cachexia/</guid>

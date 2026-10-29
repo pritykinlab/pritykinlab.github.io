@@ -5,12 +5,20 @@
     <link>https://pritykinlab.github.io/author/yanjin-chen/</link>
       <atom:link href="https://pritykinlab.github.io/author/yanjin-chen/index.xml" rel="self" type="application/rss+xml" />
     <description>Yanjin Chen</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 05 Oct 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://pritykinlab.github.io/author/yanjin-chen/avatar_hude5b0f26da123d0ec4b5f6619ae2d000_655362_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Yanjin Chen</title>
       <link>https://pritykinlab.github.io/author/yanjin-chen/</link>
     </image>
+    
+    <item>
+      <title>Prime editing enables high-throughput identification and characterization of selective MutSβ inhibitors</title>
+      <link>https://pritykinlab.github.io/publication/2026-pe-mmr/</link>
+      <pubDate>Mon, 05 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/publication/2026-pe-mmr/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

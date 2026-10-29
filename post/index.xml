@@ -5,12 +5,22 @@
     <link>https://pritykinlab.github.io/post/</link>
       <atom:link href="https://pritykinlab.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>News</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 17 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 27 Oct 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://pritykinlab.github.io/media/icon_hu319984673dac842ac8ba1aa7906c04f1_1673_512x512_fill_lanczos_center_2.png</url>
       <title>News</title>
       <link>https://pritykinlab.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>T cell multiomics paper is published in Cell Reports</title>
+      <link>https://pritykinlab.github.io/post/2026-10-27-tcell-multiomics/</link>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/post/2026-10-27-tcell-multiomics/</guid>
+      <description>&lt;p&gt;Our &lt;a href=&#34;../../../publication/2026-Tcell-multiomics/index.html&#34;&gt;paper&lt;/a&gt; using scATAC+RNA-seq multiomics to characterize gene regulatory programs across T cell subsets is published in &lt;a href=&#34;https://doi.org/10.1016/j.celrep.2026.118156&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Cell Reports&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;Exciting collaboration &lt;a href=&#34;https://www.imp.ac.at/groups/joris-van-der-veeken&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Joris van der Veeken&lt;/a&gt; and &lt;a href=&#34;https://www.mskcc.org/research/ski/labs/alexander-rudensky&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Sasha Rudensky&lt;/a&gt;.
+Congratulations to &lt;a href=&#34;../../../author/sarah-walker/index.html&#34;&gt;Sarah Walker&lt;/a&gt;!&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Yuri shares his perspective on AI in the life sciences in Cell</title>

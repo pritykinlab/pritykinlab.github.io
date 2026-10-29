@@ -5,12 +5,20 @@
     <link>https://pritykinlab.github.io/author/sarah-walker/</link>
       <atom:link href="https://pritykinlab.github.io/author/sarah-walker/index.xml" rel="self" type="application/rss+xml" />
     <description>Sarah Walker</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 06 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 27 Oct 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://pritykinlab.github.io/media/icon_hu319984673dac842ac8ba1aa7906c04f1_1673_512x512_fill_lanczos_center_2.png</url>
+      <url>https://pritykinlab.github.io/author/sarah-walker/avatar_huf1007357444e70aeea8469c69e56f412_744956_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Sarah Walker</title>
       <link>https://pritykinlab.github.io/author/sarah-walker/</link>
     </image>
+    
+    <item>
+      <title>Single-cell multi-omics reveals archetypal regulatory programs shared across T cell subsets</title>
+      <link>https://pritykinlab.github.io/publication/2026-tcell-multiomics/</link>
+      <pubDate>Tue, 27 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/publication/2026-tcell-multiomics/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>ArchVelo: archetypal velocity modeling for single-cell multi-omic trajectories</title>
@@ -21,10 +29,26 @@
     </item>
     
     <item>
-      <title>Single-cell multiomics reveals archetypal regulatory programs shared across CD4 and CD8 T cell subsets in viral infection</title>
-      <link>https://pritykinlab.github.io/publication/2025-tcell-multiomics/</link>
-      <pubDate>Mon, 08 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://pritykinlab.github.io/publication/2025-tcell-multiomics/</guid>
+      <title>Predictive modeling of molecular activity underlying physical cell-cell interactions</title>
+      <link>https://pritykinlab.github.io/publication/2026-gloss/</link>
+      <pubDate>Mon, 23 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/publication/2026-gloss/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Universal recording of immune cell interactions in vivo</title>
+      <link>https://pritykinlab.github.io/publication/2024-ulipstic/</link>
+      <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/publication/2024-ulipstic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hierarchical regulation of the resting and activated T cell epigenome by major transcription factor families</title>
+      <link>https://pritykinlab.github.io/publication/2022-t-cell-tfs/</link>
+      <pubDate>Thu, 30 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://pritykinlab.github.io/publication/2022-t-cell-tfs/</guid>
       <description></description>
     </item>
     
